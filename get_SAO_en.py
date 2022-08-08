@@ -18,7 +18,7 @@ def get_SAO_en(sentence, model=nlp):
     doc = model(sentence)
     res = []
 
-    # get all noun trunks 
+    # get all noun chunks 
     nouns = [n for n in doc.noun_chunks]
 
     ############################# PART1 #############################
@@ -50,13 +50,13 @@ def get_SAO_en(sentence, model=nlp):
                 if subject_node: 
                     subject = subject_node[-1]
 
-        # find noun trunk that includes the subject noun
+        # find noun chunk that includes the subject noun
         if subject:
             if subject.pos_ == "PRON" and verb.dep_=="relcl":
                 subject = verb.head
 
             try:
-                subject = [n for n in nouns if subject in n][0]
+                subject = [nn for nn in nouns if subject in nn][0]
                 subject = " ".join([w.text for w in subject if w.pos_!="DET"])
             except IndexError:
                 subject = subject.text
@@ -74,9 +74,15 @@ def get_SAO_en(sentence, model=nlp):
         
                 for obj in conj_obj:
                     try:
+<<<<<<< HEAD
                         obj_trunk = [n for n in nouns if obj in n][0]
                         if obj_trunk:
                             objects.append(" ".join([w.text for w in obj_trunk if w.pos_!="DET"]))
+=======
+                        obj_chunk = [nn for nn in nouns if obj in nn][0]
+                        if obj_chunk:
+                            objects.append(" ".join([w.text for w in obj_chunk if w.pos_!="DET"]))
+>>>>>>> d869c3a9af9b4efe3d9d395537ea37973d87751c
                     except IndexError:
                         continue
 
@@ -91,7 +97,7 @@ def get_SAO_en(sentence, model=nlp):
         subject = [child for child in verb.children if child.dep_ == "nsubjpass"][-1]
 
         try:
-            subject = [n for n in nouns if subject in n][0]
+            subject = [nn for nn in nouns if subject in nn][0]
             subject = " ".join([w.text for w in subject if w.pos_!="DET"])
         except (IndexError, AttributeError) as e:
             continue
@@ -99,18 +105,26 @@ def get_SAO_en(sentence, model=nlp):
         try:
             prep = [child for child in verb.children if child.dep_ == "prep"][-1]
             pobjs = [child for child in prep.children if child.dep_ == "pobj"]
-            pobjs.extend([child for pobj in pobjs for child in pobj.children if child.dep_=="conj"])
+
+            pobjs_conj = [child for pobj in pobjs for child in pobj.children if child.dep_=="conj"]
+            while pobjs_conj:
+                pobjs.extend(pobjs_conj)
+                pobjs_conj = [child for pobj in pobjs_conj for child in pobj.children if child.dep_=="conj"]
 
             for object in pobjs:
                 try:
-                    object = [n for n in nouns if object in n][0]
+                    object = [nn for nn in nouns if object in nn][0]
                     object = " ".join([w.text for w in object if w.pos_!="DET"])
                 except IndexError:
                    continue 
 
                 if (subject not in stopwords and object not in stopwords) and (subject!=object):
                     verb_text = " ".join([w.text for w in doc if (w==verb) or (abs(w.i - verb.i)<=2 and  w.head==verb and w.dep_ in ["auxpass", "prep"])])
+<<<<<<< HEAD
                     verb_text = re.sub("(is|are)","be", verb_text)
+=======
+                    verb_text = re.sub("(is|are|being)","be", verb_text)
+>>>>>>> d869c3a9af9b4efe3d9d395537ea37973d87751c
                     res.append((cleaned_noun_chunk(subject), verb_text, cleaned_noun_chunk(object)))
             
         except IndexError:
