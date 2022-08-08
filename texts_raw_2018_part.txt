@@ -1,0 +1,1033 @@
+_______________METHOD FOR PRODUCING SILOXANES CONTAINING GLYCERIN SUBSTITUENTS
+_____20190815_____XMLs/xml/ipa190815.xml
+_____US-20190248959-A1 : US-16315833 : EP-16180762.3 : WO-PCT/EP2017/066756-00
+_____C08G0077380000 : C08G0077060000 : A61K0008580000 : A61K0008892000 : A61K0047340000 : A61K0047240000 : A61Q0019000000 : C07F0007180000
+The invention relates to a method for producing siloxanes that have glycerin modifications and, at the same time, hydrophobic substituents. The invention further relates to a siloxane that has glycerin modifications and also hydrophobic side chains, wherein at least some of the glycerin modifications bear ketal groups, and to the use of said new siloxanes.
+_____d:
+FIELD OF THE INVENTION
+The invention relates to a method for preparing siloxanes having glycerol modifications and also at the same time hydrophobic substituents. The present invention further relates to a siloxane having glycerol modifications and also hydrophobic side chains, wherein the glycerol modifications bear at least partially ketal groups, and also the use of these novel siloxanes.
+PRIOR ART
+Organomodified siloxanes are used in various applications. Their properties can be adjusted by the type of modification and also by the specific modification density.
+The noble metal-catalysed hydrosilylation reaction represents a universal methodology for the SiC bond forming modification of siloxane skeletons having SiH groups.
+For instance, in this manner, with allyl polyethers for example, organophilic or non-ionic hydrophilic groups may be bonded to a siloxane skeleton. Such compounds are used, for example, as polyurethane foam stabilizers and as defoamers in propellants.
+In contrast, by reaction with α-olefins, the siloxane can be attached to lipophilic groups. The silicon waxes obtained thereby serve, for example as additives in cosmetic applications.
+Since polyether-containing compounds have come under increasing criticism in recent times, there exists a need for siloxane-based emulsifiers which bear no polyether groups but at the same time have good emulsifying and dispersing properties.
+For this purpose, glycerol or polyglycerol derivatives are used to replace the polyether groups as hydrophilic component. Polyglycerol-modified siloxanes of this kind are described, for example, in EP 1213316. In the application EP 1550687, glycerol-modified siloxanes are used for application in emulsions.
+EP 1550687 discloses that glycerol-modified, particularly polyglycerol-modified siloxanes may be prepared directly by hexachloroplatinic acid-catalyzed SiC linkage of lateral hydrogen siloxanes with polyglycerol mono- or polyglycerol diallyl ethers in isopropanol as reaction medium. In this case, SiOC linked hydrolysable secondary products are inevitably formed.
+EP2243799 addresses this problem and teaches that the weaknesses of systems known hitherto can thus be prevented by carrying out the linkage of the glycerol derivative not in comb positions but at the termini of the siloxane skeleton to be modified.
+Despite the teaching presented in this document, no technical solution for the preparation of high-purity glycerol-modified siloxanes is presented. The general procedure described therein for the preparation of alkyl/glycerol-modified siloxanes follow in that stoichiometric excesses of α-olefin and glycerol monoallyl ether and 10 ppm Karstedt's catalyst are initially charged in ca. 30% toluene (based on the total weight) with stirring and heated to 95° C. The hydrogen siloxane is then added dropwise at 95° C. over 2 hours. After distillative workup of the reaction mixture having complete SiH conversion (stripping off volatile components at 110° C. and with the aid of an applied vacuum of ca. 1 mbar), a viscous, slightly cloudy, almost colorless product is obtained.
+The use of aromatic solvent is of sufficient disadvantage for this method if the resulting siloxane is intended to be used as a cosmetic additive. In addition, by means of the reaction regime, in which an ambident substrate such as glycerol monoallyl ether is combined with the SiH siloxane in the presence of a platinum catalyst, hydrolytically unstable SiOC linked secondary products are formed. These secondary products, due to their chemical relationship to the main products and their non-volatility, are not separable from the product and therefore remain therein. Nonetheless, secondary product formation accounts for up to ca. 25 val % of the glycerol monoallyl ether used.
+As a result, the achievable selectivity for the SiC linkage always lags behind that theoretically expected.
+Recognising the difficulty resulting from the presence of the ambident substrate, the teaching of WO 2011134869 is directed to the use of 1,2-O-isopropylidene-3-allyloxy-1,2-propanediol as modifying reagent of comb-like structured SiH siloxanes (Examples 1a, 2a, 3a). Although only the ketal moiety is to be added as sole substituent on the respective hydrogen siloxane, the use of a large amount of dioxane is necessary (ca. 78% in Example 1a, ca. 71% in Example 2a and ca. 57% in Example 3a) in order to isolate after more than 24 hours yields of 88 to 92% of the glycerol-modified siloxane still to be protected.
+The object given to providing diacrylate group-bearing siloxanes for use in radiation-curing systems, U.S. Pat. No. 4,908,228 addresses the reaction of 1,2-O-isopropylidene-3-allyloxy-1,2-propanediol with hydrogen silanes and hydrogen siloxanes and limits itself in this case to the consideration of purely binary substance systems. The glycerol ketal-modified silanes and siloxanes obtained are subsequently subjected to a hydrolysis or alcoholysis and the diol-modified siloxanes released are acrylated.
+The object of the invention was to provide a method with which glycerol-modified siloxanes can be prepared without the use of relatively large amounts of solvent, which additionally have hydrophobic substituents.
+DESCRIPTION OF THE INVENTION
+It has now been found, surprisingly, that the method described below for preparing siloxanes having glycerol modifications and at the same time hydrophobic substituents, may be a carried out without large amounts of solvent. Completely surprisingly, the reactants used in the method according to the invention result in an unforseeably high phase compatibility. Typically, hydrosilylation reactions carried out without solvent are characterized by a substrate-dependent incompatibility, which leads to the fact that the SiC linkage reaction starts from the multiphasic state, generally from a biphasic state. The silicone phase having SiH groups and the olefinic reaction partner to be added on have no affinity due to their different polarities from each other and are in addition separated more by density differences. For instance, the solvent-free SiC linkage reaction between SiH siloxanes and unsaturated (poly)ethers can be cited, which always begins biphasically. With the starting formation of the SiC linked copolymer, a phase-compatibilizing surfactant is present which promotes the dispersal of the reaction partners at the phase interface. With the product concentration increasing during the reaction course, the concentration of incompatible reactants falls, which permeate the reaction matrix in the form of small droplets. At the so-called clearing point, the diameter of the individual droplets of the incompatible dispersed phase has fallen below the wavelength of visible light and the previously cloudy reaction matrix appears to the naked eye to be a clear phase.
+Knowing the practical experiences in the SiC bond forming (poly)ether modification of siloxanes, phase compatibility of the addenda in the hydrosilylation step in the preparation of the inventive claimed siloxanes bearing simultaneously glycerol, glycerol ketal and hydrophobic substituents represents a surprise to those skilled in the art, since formally glycerol monoallyl ether ketal—detached from its preparation and questions of nomenclature—is considered as an unsaturated (poly)ether compound having 3 ether oxygen atoms. In place of the biphasicity of the reaction matrix usually observed in (poly)ether additions—and from the start of the hydrosilylation—an undifferentiated clear homogeneous phase is apparent to the naked eye. For operational practice, this system behavior is of exceptional importance, since it avoids the necessity to use solvent and/or to attach the reaction partners to the polymer skeleton in a complex sequence, as is described, for example, in the production Example 1 of WO2013103147, page 49 ff.
+The present invention therefore relates to a method for preparing modified siloxanes comprising the method steps of
+A) providing a hydrogen siloxane having at least three SiH groups per molecule;
+B) hydrosilylation of the hydrogen siloxane with
+at least one α-olefinic hydrocarbon having 2 to 36, particularly 8 to 28, carbon atoms and
+at least one ketalized glycerol derivative comprising:
+a glycerol skeleton and
+one α-olefinic coupling group; and optionally
+C) purifying the hydrosilylated siloxane; and optionally
+D) at least partial acidic hydrolysis of the ketals present in the ketalized glycerol derivatives reacted with the hydrogen siloxane.
+The invention further relates to a modified siloxane obtainable by the aforementioned method, and also the use of the same as emulsifier.
+An advantage of the method according to the present invention is that the glycerol-modified siloxanes with regard to SiOC linked secondary products can be prepared in high purity. A further advantage of the method according to the invention is that the glycerol-modified siloxanes obtainable are able to achieve excellent emulsions and dispersions. Such formulations are stable in storage and the emulsions or dispersions show over a period of several months and at different temperatures a constantly stable composition and homogeneity without separation of oil or water or solid. The glycerol-modified siloxanes obtainable have proven to be particularly advantageous especially in cosmetic emulsion preparations for make-up and sun protection applications, which additionally comprise inorganic pigments such as titanium dioxide or iron oxide, since the glycerol-modified siloxanes obtainable impart to these formulations a good long-term stability and a very good pigment dispersion.
+A further advantage of the method according to the invention is that it affords a constant and reproducible quality of the end product, which was achievable only with difficulty, it at all, by the industrial methods for preparing glycerol-modified siloxanes known to date.
+The preparation process according to the invention and the glycerol-modified siloxanes according to the invention are described below by way of example without the invention being limited to these exemplary embodiments. When ranges, general formulae or classes of compounds are specified below, these are intended to encompass not only the corresponding ranges or groups of compounds which are explicitly mentioned but also all subranges and subgroups of compounds which can be derived by leaving out individual values (ranges) or compounds. Where documents are cited for the purposes of the present description, the entire content of these is intended to be part of the disclosure of the present invention. Where, in the context of the present invention, compounds, such as siloxanes, are described which can have different units multiple times, then these can occur in random distribution (random oligomer) or arranged (block oligomer) in these compounds. Data on the number of units in such compounds are understood to be as averages, averaged over all relevant compounds, since in particular siloxanes are generally present as mixtures.
+Unless stated otherwise, all percentages (%) given are percentages by mass.
+The method for preparing modified siloxanes according to the invention is particularly oriented to the preparation of the siloxanes having at least one long-chain hydrocarbon group and at least one group containing glycerol.
+In the context of the present invention, the term “hydrogen siloxane” or “H-siloxane” is always understood to mean SiH functional siloxane. The hydrogen siloxanes used in accordance with the invention are obtainable by methods known to those skilled in the art, for example, the equilibration such as is described in U.S. Pat. No. 7,196,153.
+In the context of the present invention “ketalized” glycerol derivatives are understood to mean that OH groups of the glycerol derivative belonging to the glycerol portion have been formally converted by reaction with at least one ketone into a ketal. In this context, in the ketalized glycerol derivatives, at least some of the OH groups have been ketalized; preferably at least 5%, in particular at least 15% of the OH groups have been ketalized.
+The structure of the siloxane base skeleton of the modified siloxane to be prepared by the method according to the invention is obviously determined by the hydrogen siloxane used in method step A).
+The modified siloxane preferably has 20 to 300, particularly preferably 50 to 150 Si atoms per molecule.
+In the siloxane skeleton, linear, branched and also dendritic siloxanes may be modified by the method according to the invention.
+Appropriate dendritic siloxanes, which may be obtained by partial hydrosilylation of hydrogen siloxanes with branched siloxanes bearing olefin groups e.g. vinyltris(trimethylsiloxy)silane and may be used in method step B), are described, for example, in WO2013103147.
+For instance, in analogy to the teaching of WO2013103147, a monoglycerol-modified dendritic siloxane according to the present invention can be obtained by adding vinyltris(trimethylsiloxy)silane, an α-olefin and glycerol ketal monoallyl ether, hydrosilylating for example on a lateral hydrogen siloxane and the addition product is subsequently subjected to a partial deketalization.
+The addition of the olefinic reaction partner in method step B) can be sequenced in any desired sequence or preferably be carried out concertedly.
+A preferred method according to the invention serves to prepare modified siloxanes of the general formula I)
+M2+h+2i-a-b-cM′aM″bM′″cDdD′eD″fD′″gThQi  general formula I)
+where
+M=(R13 Si O1/2),
+M′=(R12R2 Si O1/2),
+M″=(R12R3 Si O1/2),
+M′″=(R12R4 Si O1/2),
+D=(R12 Si O2/2),
+D′=(R1R2 Si O2/2),
+D″=(R1R3 Si O2/2),
+D′″=(R1R4 Si O2/2),
+T=(R1 Si O3/2) and
+Q=(Si O4/2),
+where
+R1=mutually independent, identical or different, linear or branched, optionally aromatic hydrocarbon radicals having 1 to 16, preferably 1 to 7, carbon atoms, which optionally bear OH or ester functions, or tris(trimethylsiloxy)silane ethyl, preferably methyl, phenyl or tris(trimethylsiloxy)silane ethyl, in particular methyl or tris(trimethylsiloxy)silane ethyl,
+R2=mutually independent, identical or different, linear or branched, optionally aromatic hydrocarbon radicals having 2 to 36 carbon atoms, preferably 8 to 28 carbon atoms, preferably linear alkyl radicals having 8 to 28 carbon atoms, particularly n-dodecyl or n-hexadecyl, and
+R3=mutually independent, identical or different, selected from glycerol-containing radicals,
+R4=mutually independent, identical or different, selected from ketalized glycerol-containing radicals,
+where
+a=0 to 7, particularly 0 to 3,
+b=0 to 7, particularly 0 to 3,
+c=0 to 7, particularly 0 to 3,
+d=10 to 200, preferably 20 to 150, particularly 50 to 130,
+e=1 to 130, preferably 5 to 80, particularly 8 to 40,
+f=0 to 75, preferably 1 to 45, particularly 1 to 25,
+g=0 to 75, preferably 1 to 45, more particularly 4 to 25,
+h=0 to 10, preferably 0 to 5, especially 0
+i=0 to 5, preferably 0 to 2, particularly 0,
+with the proviso that c+g>0.
+The result of this for the method according to the invention, as already explained above, is that preferably such hydrogen siloxanes are provided in method step A) which correspond to the aforementioned general formula I), in which R2, R3 and R4═H.
+It is apparent that the α-olefinic hydrocarbon used in method step B) determines the structure of the radical R2 and the ketalized glycerol derivative used in method step B) determines the structure of the radical R3 and R4.
+In method step B) therefore, preferably linear α-alkenes having 8 to 28 carbon atoms, in particular n-dodecene or n-hexadecene are used as α-olefinic hydrocarbons.
+In the context of the present invention, it is apparent that the radical R3 is a glycerol-containing radical, which clearly has not been ketalized to R4.
+The term “glycerol-containing radical” in the context of the present invention is understood to mean a substituent which comprises the structure —OCH2CH(O—)CH2O—.
+Analogous structures are understood in the context of the present invention under the term “glycerol skeleton”.
+In method step B), the hydrosilylation of the hydrogen siloxane with the α-olefinic hydrocarbon and the ketalized glycerol derivative can be carried out simultaneously or separately from one another, i.e. in any successive sequence, although it is preferred in accordance with the invention if in method step B) the hydrosilylation of the hydrogen siloxane is carried out with a mixture comprising the α-olefinic hydrocarbon and the ketalized glycerol derivative.
+In method step B), the hydrosilylation can be carried out in the presence of a catalyst according to established methods. It is possible to use, for example, catalysts such as complexes of platinum, rhodium, osmium, ruthenium, palladium, iridium or similar compounds or the corresponding pure elements or derivatives thereof immobilized on silica, aluminium oxide or activated carbon or similar support materials. The hydrosilylation is preferably carried out with the aid of platinum complexes such as cis-(NH3)2PtCl2 (cisplatin), di-μ-[chlorobis chloro(cyclohexene)platinum(II)] or [tris(divinyltetramethyldisiloxane)bisplatin(0)] (Karstedt's catalyst) and particularly preferably with olefin-activated platinum(0) complex catalysts (so-called WK catalysts) according to the teaching of EP1520870. The amount of catalyst is calculated in this case such that the total concentration of platinum is from 1 to 100 wppm, based on the total reaction mixture. As is apparent to those skilled in the art, the minimum platinum concentration is selected so that a rapid SiC bond forming reaction is ensured, without the economic viability of the method being affected by excessively high noble metal use or by also causing disadvantageous product discolorations. The hydrosilylation may be carried out at temperatures between 0 and 200° C., preferably between 50 and 140° C. The reaction may be carried out in suitable solvents such as aliphatic or aromatic hydrocarbons, cyclic oligosiloxanes, alcohols, carbonates or esters. Suitable processes for hydrosilylation are described, for example, in the book “Chemie und Technologie der Silicone” [Chemistry and Technology of the Silicones], Verlag Chemie, 1960, page 43, and in U.S. Pat. No. 3,775,452, to which express reference is made.
+In contrast to the methods known to date, the use of a solvent can be omitted in method step B).
+It is therefore preferred according to the invention that in method step B) at most 20% by weight, preferably at most 10% by weight, in particular at most 5% by weight solvent is used, wherein the percent by weight refers to the sum total of hydrogen siloxane, α-olefinic hydrocarbon, ketalized glycerol derivative and solvent.
+The ketalized glycerol derivative preferably used in method step B) is derived structurally preferably by ketalizing with substances selected from the group R′—(CO)—R″ where R′ and R″ are identical or different hydrocarbon radicals, in particular alkyl groups having 1 to 10 carbon atoms, benzaldehyde, cyclopentanone, cyclohexanone and cycloheptanone.
+The boiling point differences of the ketalization reagents used and considering conversion products thereof, it has proven advantageous in practice if the preparation of the ketalized glycerol derivative is not carried out using the corresponding ketone itself, but with corresponding ketals thereof. Preference is given to using dimethoxy or diethoxy ketals in this case.
+Methods for preparing cyclic acetals and ketals are disclosed in DE19648960 and in DE19647395. Directions for carrying out the ketalization over solid catalysts are disclosed, for example, in DE102008015756. WO2009010527 relates to a method for preparing cyclic glycerol acetals or cyclic glycerol ketals or mixtures of the same.
+In method step B) preferably a ketalized glycerol derivative is used having the general formula II)
+where R′ and R″ are identical or different hydrocarbon radicals, in particular alkyl groups having 1 to 20, in particular 1 to 4, carbon atoms, wherein R′ and R″ can be covalently bonded to each other via a C—C bond, and X is selected from divalent hydrocarbon radicals, in particular alkylene groups having 1 to 10 carbon atoms, where ×=CH2 is particularly preferred.
+In the case that R′ and R″ are covalently bonded to each other via a C—C bond, the sum total of the carbon atoms of R′ and R″ is preferably 4 to 7 carbon atoms, especially preferably 4 carbon atoms, particularly preferably R′ and R″ together are in the form of an alkylene group having 4 to 7 carbon atoms.
+In method step B), very particular preference is given to using a ketalized glycerol derivative of the general formula II) where ×=CH2 and R′ and R″=CH3.
+Particularly preference is given to using the aforementioned preferred ketalized glycerol derivative in connection with a method according to the invention for preparing siloxanes of the general formula I) where
+R1=methyl,
+R2=in particular n-dodecyl or n-hexadecyl,
+and
+a=0 to 3,
+b=0 to 3,
+c=0 to 3,
+d=50 to 130,
+e=8 to 40,
+f=1 to 25,
+g=0.5 to 25, preferably 1 to 25,
+h=0, and
+i=0.
+It can be of advantage if the modified siloxane is purified after method step B). This is achieved preferably by distilling off of excess α-olefinic hydrocarbons and ketalized glycerol derivatives and optionally solvent.
+In method step C), the ketals present in the modified siloxane are optionally at least partially acid hydrolyzed. Appropriate directions for carrying out the acidic hydrolysis are disclosed, for example, in WO2011134869.
+The hydrolysis is carried out by addition of an aqueous acidic solution, in particular a toluenesulphonic acid solution. It is advantageous and therefore preferred in accordance with the invention, if method step C) is carried out at a temperature of 40° C. to 100° C.
+Of all possible preferences according to the invention, method step C) is carried out such that the degree of ketalization is from 5% to 70%, preferably 10% to 40%, particularly preferably 15% to 25%, wherein the percentage refers to all diols suitable for ketalization present in the siloxane. The degree of ketalization can be determined with the aid of 1H-NMR spectroscopy.
+By way of preference in accordance with the invention, the method according to the invention can include a further method step D) in which the modified siloxane is purified.
+Method step D) according to the invention preferably includes neutralization of the acid used for the acidic hydrolysis in method step C), followed by removal of the salts thus formed. This is preferably carried out according to the invention in the form of a filtering off of the salt. Also preferred in accordance with the invention is a distillative removal of the further substances added in step C) and predicted by-products formed. These include particularly water and ketones.
+The present invention further relates to siloxanes obtainable by the method according to the invention which are characterized in that they have at least one ketalized glycerol-containing radical.
+Particularly preferred in accordance with the invention are modified siloxanes of the general formula I)
+M2+h+2i-a-b-cM′aM″bM′″cDdD′eD″fD′″gThQi  general formula I)
+with
+M=(R13 Si O1/2),
+M′=(R12R2 Si O1/2),
+M″=(R12R3 Si O1/2),
+M′″=(R12R4 Si O1/2),
+D=(R12 Si O2/2),
+D′=(R1R2 Si O2/2),
+D″=(R1R3 Si O2/2),
+D′″=(R1R4 Si O2/2),
+T=(R1 Si O3/2) and
+Q=(Si O4/2),
+where
+R1=mutually independent, identical or different, linear or branched, optionally aromatic hydrocarbon radicals having 1 to 16, preferably 1 to 7, carbon atoms, which optionally bear OH or ester functions, or tris(trimethylsiloxy)silane ethyl, preferably methyl, phenyl or tris(trimethylsiloxy)silane ethyl, in particular methyl or tris(trimethylsiloxy)silane ethyl,
+R2=mutually independent, identical or different, linear or branched, optionally aromatic hydrocarbon radicals having 2 to 36 carbon atoms, preferably 8 to 28 carbon atoms, preferably linear alkyl radicals having 8 to 28 carbon atoms, particularly n-dodecyl or n-hexadecyl, and
+R3=mutually independent, identical or different, selected from glycerol-containing radicals,
+R4=mutually independent, identical or different, selected from ketalized glycerol-containing radicals,
+where
+a=0 to 7, particularly 0 to 3,
+b=0 to 7, particularly 0 to 3,
+c=0 to 7, particularly 0 to 3,
+d=10 to 200, preferably 20 to 150, particularly 50 to 130,
+e=1 to 130, preferably 5 to 80, particularly 8 to 40,
+f=0 to 75, preferably 1 to 45, particularly 1 to 25,
+g=0 to 75, preferably 1 to 45, more particularly 4 to 25,
+h=0 to 10, preferably 0 to 5, especially 0
+i=0 to 5, preferably 0 to 2, particularly 0,
+with the proviso that c+g>0.
+Particularly preferred siloxanes according to the invention are characterized in that in the general formula I)
+R1=methyl,
+R2=in particular n-dodecyl or n-hexadecyl, and
+where Y═[CH2]s, where s=1 to 5, particularly 1,
+where ×=[CH2]r, where r=1 to 5, particularly 1, and R′ and R″=mutually independent, identical or different linear alkyl having 1 to 4 carbon atoms, wherein R′ and R″ can be covalently bonded to each other via a C—C bond, in particular CH3,
+and
+a=0 to 3,
+b=0 to 3,
+c=0 to 3,
+d=50 to 130,
+e=8 to 40,
+f=1 to 25,
+g=0.5 to 25, preferably 1 to 25,
+h=0, and
+i=0.
+The modified siloxanes according to the invention can be used advantageously as emulsifier since they have excellent surface-active properties.
+Therefore, the present invention further relates to the use of the modified siloxanes according to the invention as emulsifier. Modified siloxanes of the present invention depicted above as preferred in accordance with the present invention are preferably used corresponding to their preference according to the invention.
+The use according to the invention is preferably in pharmaceutical or cosmetic formulations. This is particularly therefore of advantage since the modified siloxanes according to the invention can be prepared free of irritating organic solvents and thus have a high purity at the end of the preparation.
+For the use according to the invention as emulsifier it is particularly preferable that the modified siloxane of the general formula I) according to the invention meets the proviso that
+N=2+d+e+f+g+2h+3i=51 to 350, preferably 60 to 250, in particular 65 to 180,
+y=(a+c+e+g)/(b+f)=0.5 to 25, preferably 2 to 20, in particular 3 to 10, and
+z=a+b+c+e+f+g=greater than/equal to 10, preferably greater than 12, in particular, greater than 14.
+The aforementioned particularly preferred modified siloxane used in accordance with the invention is a preferred siloxane according to the invention of the present invention.
+The examples adduced hereinafter describe the present invention by way of example, without any intention that the invention, the scope of application of which is apparent from the entirety of the description and the claims, be restricted to the embodiments specified in the examples.
+EXAMPLES
+Example 1: Ketalization of Glycerol Monoallyl Ether
+In a 1 l multi-necked flask equipped with KPG stirrer, internal thermometer and reflux condenser, 300 g of glycerol monoallyl ether GAE (MW: 132.16 g/mol) together with 354.6 g of 2,2-dimethoxypropane DMP (MW: 104.15 g/mol; b.p.: 83° C.; 50% excess) are initially charged at 20° C. and then 0.33 g of p-toluenesulphonic acid p-TSA (0.05% based on GAE and DMP) added and the mixture heated at reflux temperature for one hour. The reflux condenser is then replaced by a distillation system. Over the course of 4 hours a slow reduction in distillate takes place, whereupon the distillate temperature increases up to 80° C. After cooling the bottom, 13 g of sodium hydrogen carbonate are added over the course of 30 minutes to neutralize the acid. The salt is removed by means of a pleated filter (MN 615 1/4) and the filtrate is freed from volatiles on a rotary evaporator at 60° C. and a pressure of <lmbar. The 1H-NMR spectrum of the colorless clear liquid demonstrates quantitative ketalization.
+Example 2: Hydrosilylation of a Hydrogen Siloxane with 1-Dodecene and Glycerol Monoallyl Ether Ketal
+In a 1 l multi-necked flask equipped with KPG stirrer, internal thermometer and reflux condenser, 96.6 g of the 28 val % glycerol monoallyl ether ketal prepared in Example 1; MW: 172.2 g/mol; 30% excess) together with 243.9 g of dodecene (72 val %; MW: 168.9 g/mol; 30% excess) are initially charged with stirring at 20° C. and heated to 60° C. The mixture of both components forms a clear phase. 237.2 mg of a Karstedt catalyst activated with ethylene dissolved in decamethylcyclopentasiloxane according to the teaching of EP 1520870 B1 (1% Pt dissolved in Ds, ethylene sparged corresponding to 3 ppm Pt based on the total mixture) are added and then 450 g of a hydrogen siloxane, which has both pendant and terminal SiH functions and an average chain length N=120 (SiH value: 3.43 mmol SiH/g) are added dropwise over 30 minutes. The exotherm which occurs heats the reaction mixture, which remains clear, over the whole period of the addition to 90° C. The reaction is allowed to proceed for 4 hours at 90° C.
+The gas volumetric SiH determination (decomposition of a weighed sample aliquot in a gas burette by addition of sodium butoxide solution and measurement of the hydrogen volume released) shows a SiH conversion of 99.1%. The crude product is freed from volatiles on a rotary evaporator at 130° C. and at an applied vacuum of <1 mbar. A clear pale yellow liquid is isolated. A 1H-NMR spectrum confirms the desired structure.
+Example 3: Deketalization/Partial Hydrolysis of the Precursor Prepared in Example 2
+In a 250 ml multi-necked flask equipped with internal thermometer and reflux condenser, 5 g of a 5% aqueous toluenesulphonic acid solution are added with stirring to 100 g of the precursor prepared in Example 2 and the mixture is heated to 80° C. with further continuous stirring for 6 hours. After cooling the reaction mixture to 20° C., 5 g of sodium hydrogen carbonate are added to neutralize the acid. This mixture is allowed to react for ca. 30 minutes before the salt is removed with the aid of a filter press (Seitz K300 filter sheet) and the filtrate is freed of volatile constituents at 80° C. and an applied vacuum of <1 mbar.
+The 1H-NMR spectrum assigns a degree of deketalization of ca. 83% to the colorless clear product.
+Analogous to the reaction sequence outlined in Examples 1 to 3, comprising the ketalization, the hydrosilylation and the deketalization, Examples 4 to 8 are carried out, where each example in the attached Table is represents the whole reaction sequence.
+The abbreviation Dk indicates the degree of Deketalization adjusted for the individual structure type, i.e. the ratio of opened to unopened ketal structure in percent, as can be determined from the respective associated 1H-NMR spectrum.
+Example
+3
+4
+5
+6
+7
+8
+M2+h+2i−a−b−c
+2 + h + 2i − a −
+2 + h + 2i − a −
+2 + h + 2i − a −
+2 + h + 2i − a − b − c = 2
+2 + h + 2i − a −
+2 + h + 2i − a −
+b − c = 1
+b − c = 1
+b − c = 1
+b − c = 2
+b − c = 3
+M′a
+a = 0.725
+a = 0.725
+a = 0.725
+a = 0
+a = 0
+a = 0
+M″b
+b = 0.228
+b = 0.058
+b = 0.052
+b = 0
+b = 0
+b = 0
+M′″c
+c = 0.047
+c = 0.217
+c = 0.222
+c = 0
+c = 0
+c = 0
+Dd
+d = 89
+d = 89
+d = 89
+d = 34
+d = 34
+d = 89
+D′e
+e = 21
+e = 21
+e = 21
+e = 10
+e = 10
+e = 21
+D″f
+f = 6.64
+f = 1.68
+f = 1.52
+f = 3.2
+f = 1.68
+f = 6.96
+D′″g
+g = 1.36
+g = 6.32
+g = 6.48
+g = 0.8
+g = 2.32
+g = 1.04
+Th
+h = 0
+h = 0
+h = 0
+h = 0
+h = 0
+h = 1
+Qi
+i = 0
+i = 0
+i = 0
+i = 0
+i = 0
+i = 0
+R1
+═CH3
+═CH3
+═CH3
+═CH3(99%) =
+═CH3
+═CH3
+TTMSS(1%)3)
+R2
+═C12H25
+═C12H25
+═C12H25
+═C16H33
+═C12H25
+═C12H25
+R3
+X = CH2
+X = CH2
+X = CH2
+X = CH2
+X = CH2
+X = CH2
+R′ = CH3
+[R′R″] =
+[R′R″] =
+R′ = CH3
+R′ =
+R′ = CH3
+R″ = CH3
+—(CH2)4—1)
+—(CH2)5—2)
+R″ = CH3
+C15H31
+R″ = CH3
+R″ =
+C15H31
+Dk
+83%
+21%
+19%
+80%
+42%
+87%
+1)cyclopentanone was used for ketalization in Example 4
+2)cyclohexanone was used for ketalization in Example 5
+3)TTMSS is the tris(trimethylsiloxy)silane ethyl radical, whose presence in the dendritic siloxane skeleton is stated as a percentage proportion of all R1 radicals in Example 6.
+_____c:
+1. A method for preparing modified siloxanes comprising the method steps of
+A) providing a hydrogen siloxane having at least three SiH groups per molecule;
+B) hydrosilyling the hydrogen siloxane with
+at least one α-olefinic hydrocarbon having 2 to 36, carbon atoms and at least one ketalized glycerol derivative comprising: a glycerol skeleton and one α-olefinic coupling group; and
+C) purifying the hydrosilylated siloxane; and
+D) at least partial acidic hydrolysis of the ketals present in the ketalized glycerol derivatives reacted with the hydrogen siloxane.
+2. The method according to claim 1 for preparing modified siloxanes of the general formula I)
+where
+M=(R13 Si O1/2),
+M′=(R12R2 Si O1/2),
+M″=(R12R3 Si O1/2),
+M′″=(R12R4 Si O1/2),
+D=(R12 Si O2/2),
+D′=(R1R2 Si O2/2),
+D″=(R1R3 Si O2/2),
+D′″=(R1R4 Si O2/2),
+T=(R1 Si O3/2) and
+Q=(Si O4/2),
+where
+R1=mutually independent, identical or different, linear or branched, optionally aromatic hydrocarbon radicals having 1 to 16 carbon atoms, which bear OH or ester functions, or tris(trimethylsiloxy)silane ethyl, preferably methyl, phenyl or tris(trimethylsiloxy)silane ethyl,
+R2=mutually independent, identical or different, linear or branched, optionally aromatic hydrocarbon radicals having 2 to 36 carbon atoms and
+R3=mutually independent, identical or different, selected from glycerol-containing radicals,
+R4=mutually independent, identical or different, selected from ketalized glycerol-containing radicals,
+where
+a=0 to 7,
+b=0 to 7,
+c=0 to 7,
+d=10 to 200,
+e=1 to 130,
+f=0 to 75,
+g=0 to 75,
+h=0 to 10,
+i=0 to 5,
+with the proviso that c+g>0.
+3. The method according to claim 2, wherein in method step B) the hydrosilylation of the hydrogen siloxane is carried out with a mixture comprising the α-olefinic hydrocarbon and the ketalized glycerol derivative.
+4. The method according to claim 1, wherein in method step B) at most 20% by weight, wherein the percent by weight refers to the sum total of hydrogen siloxane, α-olefinic hydrocarbon, ketalized glycerol derivative and solvent.
+5. The method according to claim 1, wherein the ketalized glycerol derivative used in method step B) is derived structurally by ketalizing with substances selected from the group
+R′—(CO)—R″ where R′ and R″ are identical or different hydrocarbon radicals selected from the groups consisting of alkyl groups having 1 to 10 carbon atoms, benzaldehyde, cyclopentanone, cyclohexanone and cycloheptanone.
+6. The method according to claim 1, wherein a ketalized glycerol derivative is used in method step B) having the general formula II):
+where R′ and R″ are identical or different hydrocarbon radicals, in particular alkyl groups having 1 to 10 carbon atoms, wherein R′ and R″ can be covalently bonded to each other via a C—C bond, and
+X is selected from divalent hydrocarbon radicals, in particular alkylene groups having 1 to 10 carbon atoms.
+7. The method according to claim 6 wherein in method step B) a ketalized glycerol derivative of the general formula II) is used where X═CH2 and R′ and R″═CH3.
+8. The method according to claim 7 for preparing siloxanes of the general formula I) wherein
+R1=methyl,
+R2=n-dodecyl or n-hexadecyl,
+and
+a=0 to 3,
+b=0 to 3,
+c=0 to 3,
+d=50 to 130,
+e=8 to 40,
+f=1 to 25,
+g=0.5 to 25,
+h=0, and
+i=0.
+9. The method according to claim 1, wherein method step C) is carried out such that the degree of ketalization is from 5% to 70%, wherein the percentage refers to all diols suitable for ketalization present in the siloxane.
+10. The method according to claim 1, further comprising method step D) of purifying the modified siloxane.
+11. The siloxane obtainable by a method according to claim 1, wherein said siloxane has at least one ketalized glycerol-containing radical.
+12. The siloxane according to claim 11 with the general formula I)
+where
+M=(R13 Si O1/2),
+M′=(R12R2 Si O1/2),
+M″=(R12R3 Si O1/2),
+M′″=(R12R4 Si O1/2),
+D=(R12 Si O2/2),
+D′=(R1R2 Si O2/2),
+D″=(R1R3 Si O2/2),
+D′″=(R1R4 Si O2/2),
+T=(R1 Si O3/2) and
+Q=(Si O4/2),
+where
+R1=mutually independent, identical or different, linear or branched, aromatic hydrocarbon radicals having 1 to 16 carbon atoms, which bear OH or ester functions, or tris(trimethylsiloxy)silane ethyl,
+R2=mutually independent, identical or different, linear or branched, aromatic hydrocarbon radicals having 2 to 36 carbon atoms, and
+R3=mutually independent, identical or different, selected from glycerol-containing radicals,
+R4=mutually independent, identical or different, selected from ketalized glycerol-containing radicals,
+where
+a=0 to 7,
+b=0 to 7,
+c=0 to 7,
+d=10 to 200,
+e=1 to 130,
+f=0 to 75,
+g=0 to 75,
+h=0 to 10,
+i=0 to 5,
+wherein c+g>0.
+13. The siloxane according to claim 12, wherein
+R1=methyl,
+R2=n-dodecyl or n-hexadecyl, and
+where Y═[CH2]s, where s=1 to 5,
+where ×=[CH2]r, where r=1 to 5, and R′ and R″=mutually independent, identical or different linear alkyl having 1 to 4 carbon atoms, wherein R′ and R″ can be covalently bonded to each other via a C—C bond, in particular CH3,
+and
+a=0 to 3,
+b=0 to 3,
+c=0 to 3,
+d=50 to 130,
+e=8 to 40,
+f=1 to 25,
+g=0.5 to 25,
+h=0, and
+i=0.
+14. An emulsifier comprising the siloxane according to claim 11.
+15. The emulsifier according to claim 14, wherein the siloxane of the general formula I) has
+N=2+d+e+f+g+2h+3i=51 to 350,
+y=(a+c+e+g)/(b+f)=0.5 to 25, and
+z=a+b+c+e+f+g=greater than/equal to 10.
+16. TA pharmaceutical or cosmetic formulation comprising the emulsifier according to claim 14.
+17. The method according to claim 2 for preparing modified siloxanes of the general formula I)
+wherein
+R1=methyl or tris(trimethylsiloxy)silane ethyl,
+R2=n-dodecyl or n-hexadecyl, and
+and wherein
+a=0 to 3,
+b=0 to 3,
+c=0 to 3,
+d=50 to 130,
+e=8 to 40,
+f=1 to 25,
+g=4 to 25,
+h=0,
+i=0.
+18. The method according to claim 1 wherein
+B) hydrosilylation of the hydrogen siloxane with
+at least one α-olefinic hydrocarbon having 8 to 28 carbon atoms.
+19. The emulsifier according to claim 15, wherein
+20. The method according to claim 1, wherein method step C) is carried out such that the degree of ketalization is from 15% to 25% wherein the percentage refers to all diols suitable for ketalization present in the siloxane.
+
+
+_______________AMINO-SUBSTITUTED POLYSILOXANES COMBINED WITH POLYMERIZABLE AND UNPOLYMERIZABLE ORGANIC ACIDS
+_____20191010_____XMLs/xml/ipa191010.xml
+_____US-20190309132-A1 : US-16291828 : US-14761680 : US-10221283 : WO-PCT/US2014/012000 : US-16291828 : US-61904549 : US-61754274
+_____C08G0077380000 : H01M0004600000 : C08G0077388000 : A61K0047340000 : C08G0077392000
+Provided is a composition comprising (i) a polysiloxane comprising a plurality of pendant amines and (ii) an acid. Also provided is a composition comprising (i) a polysiloxane comprising a plurality of pendant acids and (ii) an amine. The compositions are useful inter alia for chemical or oil spill cleanup, drug delivery systems, transparent films, adhesives, binding agents, conductors, membranes, cross-linking agents, or opticoelectronic applications. Also provided are methods for making the compositions of the invention, as well as a battery and a composition for controlled release of a compound, each comprising a composition of the invention.
+_____d:
+RELATED APPLICATIONS
+This application is a continuation of U.S. patent application Ser. No. 14/761,680, filed Jul. 17, 2015, now U.S. Pat. No. 10,221,283, which is a 35 U.S.C. § 371 filing of International Patent Application No. PCT/US2014/012000, filed Jan. 17, 2014, which claims the benefit of priority to U.S. Provisional Patent Application Nos. 61/754,274, filed Jan. 18, 2013, and 61/904,549, filed Nov. 15, 2013, the entire contents of which are incorporated herein by reference.
+BACKGROUND
+Polysiloxanes have a myriad of uses in daily life, and many substituted polysiloxanes have allowed the list of uses to become even larger. Amino groups attached to the side chains of polysiloxane backbones offer an attractive platform from which subtle chemical changes can be made easily, leading to large changes in the bulk properties of the materials. Simple alterations of amino-substituted polysiloxanes have been exploited to produce new materials. For example, addition of an uncharged triatomic molecule, such as CO2 or CS2, can create ionic centers within the polymer matrixes that have a profound effect on the viscosity, adhesive, and swelling properties of a polysiloxane. Depending on the nature of the triatomic molecule added, the post-addition treatment, the percent of monomers in the polysiloxane with an amino functionality, and the type of amino group, the materials can be transformed from the free-flowing, slippery liquids to strong (reversible) adhesives and very viscous syrups, rubbery materials, or gels, some of which are able to imbibe selectively large amounts of low polarity solvents.
+The effects of other simple additives which are capable of creating ion pairs within the polysiloxanes on the polymer properties remain a potential source of cost-effective and useful materials.
+SUMMARY OF THE INVENTION
+An aspect of the present invention relates to polysiloxane materials containing a basic functional group (e.g., amine or other group capable of accepting a proton) combined with an acid to form materials with useful properties (e.g., as transparent films, adhesives, binding agents, conductors, membranes, or controlled-release systems). In certain embodiments, the acid is a mono-acid (e.g., acetic acid). In certain embodiments, the acid is a di-acid (e.g., succinic acid). In certain embodiments, the acid is a tri-acid. In certain embodiments, the acid contains an aromatic group.
+An aspect of the present invention relates to polysiloxane materials containing an acidic functional group (e.g., carboxylic acid or other group capable of donating a proton) combined with a base to form materials with useful properties (e.g., as transparent films, adhesives, binding agents, conductors, membranes, or controlled-release systems). In certain embodiments, the base is mono-basic (e.g., butyl amine, di(isopropyl)amine, or triethylamine). In certain embodiments, the base is di-basic (e.g., ethylene diamine). In certain embodiments, the base is tri-basic. In certain embodiments, the base contains an aromatic group (e.g., aniline).
+The changes in rheological, adhesive, and swelling properties that occur when a series of mono-carboxylic acids or di-carboxylic acids are added to 6-7PSil, a polysiloxane in which 6-7% of the side groups contain a primary amine functionality, give rise to materials useful as polymer networks for chemical or oil spill cleanup, drug delivery systems, transparent films, adhesives, binding agents, conductors, membranes, cross-linking agents, or opticoelectronic applications. Those changes are correlated with (especially) the structures of the acids. In addition, described herein are materials made from in situ photo-polymerization of unsaturated carboxylic acids that were added to the polysiloxane. The results demonstrate that drastic changes effected by such additions (or polymerizations) lead to materials with drastically different properties than those of the parent polysiloxane. Clearly, the materials may be useful in a variety of new applications, and the protocols described here can be applied directly to other amino-substituted polymers, including those which are not polysiloxanes.
+Polysiloxane ammonium salts have wide-ranging utility primarily based on the unique character of silicon-containing polymers (e.g., stability, low water solubility) and their adaptability to various technical fields. Polysiloxanes exhibit low surface tension, high flexibility, excellent stability to heating, and resistance to oxidation and aging. However, the high malleability and relatively low viscosity of polysiloxane can be disadvantageous because they can't be made into fibers and immobilized films without significant structural modifications, such as crosslinking. Crosslinking systems have been designed consisting of the polysiloxane amine and CO2 or CS2. At the same time, it is widely known that amines form ammonium salts when combined with an acid. So polysiloxane ammonium salt could be easily produced with polysiloxane amine, but it would exhibit higher hydrophilicity than polysiloxane amine, which may lead to different aggregation, solubility, rheology or swelling properties.
+In the present invention, ammoniumpolysiloxane networks with acids such as carboxylates are produced from aminopolysiloxane such as 6-7PSil or D2EDA (see structure in Scheme 1) and different mono-acids or di-acids. Ionic crosslinking could be realized through the salt formation reaction of the two carboxylic groups of a diacid compound, or even through electrostatic interactions when a monocarboxylic acid was employed.
+BRIEF DESCRIPTION OF THE DRAWINGS
+FIG. 1 depicts vertically offset IR spectra of acetic acid (bottom), D2EDA (middle), and ammonium acetate of D2EDA (top, with one equivalent of acetic acid), synthesized as described for 6-7PSil.
+FIG. 2 depicts vertically offset 1H NMR spectra of 6-7PSil without (1), and with one molar equivalent of trifluoroacetic acid in CDCl3 after 0.5 h at 25° C. (2) another 0.5 h at 50° C. (3) and 1.5 h at 50° C. (4).
+FIG. 3 depicts average viscosities over 0.1-100 Pa shear stress of 6-7PSil and its ammonium carboxylate salts.
+FIG. 4 depicts moduli of 6-7PSil and its ammonium carboxylates at 1.2% strain and 1 Hz frequency.
+FIG. 5A depicts moduli versus strain at 1 Hz frequency.
+FIG. 5B depicts frequency sweep at 1% strain of PD2.
+FIG. 6 tabulates maximum normal force measurements to break 6-7PSil ammonium carboxylate films between steel plates.
+FIG. 7 depicts maximum shear force necessary to move films of 6-7PSil ammonium salts
+FIG. 8 depicts viscosity of 6-7PSil ammonium acrylate (PMAA) before (bottom curve) and after (upper curve) irradiation.
+FIG. 9 depicts moduli (1 Hz frequency) of 6-7PSil ammonium acrylate (PMAA) before (lower two curves) and after (upper two curves) irradiation (G′, square; G″, circle).
+FIG. 10 depicts shear force versus extension of a 6-7PSil ammonium acrylate (PMAA) film between glass plates before (lower curve) and after (upper curve) irradiation.
+FIG. 11 depicts vertically offset 1H NMR spectra of 6-7PSil without (a) and with 0.5 (b), 0.75 (c) and 1.0 (d) molar equivalents of benzoic acid in CDCl3.
+FIG. 12 depicts viscosities versus shear stress of 6-7PSil ammonium carboxylates.
+FIG. 13 depicts moduli of PM1 versus strain at 1 Hz frequency. See Table 1 for definitions of various acronyms used throughout the specification and Figures.
+FIG. 14 depicts moduli of PM2 versus strain at 1 Hz frequency.
+FIG. 15 depicts moduli of PMPh versus strain at 1 Hz frequency.
+FIG. 16 depicts moduli of PMCF3 versus strain at 1 Hz frequency.
+FIG. 17 depicts moduli of PDA7 versus strain at 1 Hz frequency.
+FIG. 18 depicts moduli of PD4 versus strain at 1 Hz frequency.
+FIG. 19 depicts moduli of PD3 versus strain at 1 Hz frequency.
+FIG. 20 depicts moduli of PD1 versus strain at 1 Hz frequency.
+FIG. 21 depicts moduli of PD0 versus strain at 1 Hz frequency.
+FIG. 22 depicts a frequency sweep of PMPh at 1% strain.
+FIG. 23 depicts a frequency sweep of PMCF3 at 1% strain.
+FIG. 24 depicts a frequency sweep of PD7 at 1% strain.
+FIG. 25 depicts a frequency sweep of PD4 at 1% strain.
+FIG. 26 depicts a frequency sweep of PD3 at 1% strain.
+FIG. 27 depicts a frequency sweep of PD1 at 1% strain.
+FIG. 28 depicts a frequency sweep of PD0 at 1% strain.
+FIG. 29 depicts viscosity (top curve) and G″ (bottom curve; at 1.2% strain and 1 Hz frequency) of PMPh as a function of different amounts of added benzoic acid.
+FIG. 30 depicts viscosity (top curve) and G″ (bottom curve, at 1.2% strain and 1 Hz frequency) of PM1 as a function of different amounts of added acetic acid.
+FIG. 31 depicts viscosity of PM2 with 3 wt % Darocur 1173 before (squares) and after (circles) irradiation.
+FIG. 32 depicts moduli of PM2 with 3 wt % Darocur 1173 (at 1 Hz frequency) before and after irradiation.
+FIG. 33 depicts normal force from extensional rheology of PM2 with 3 wt % Darocur 1173 before (upper curve) and after (lower curve) irradiation.
+FIG. 34 depicts the 1H NMR spectrum of 6-7PSil vinylbenzoate in CDCl3.
+FIG. 35 depicts viscosity of 6-7Psil vinylbenzoate before (bottom) and after (top) irradiation with 3 wt % Darocur 1173 as photoinitiator.
+FIG. 36 depicts moduli of 6-7PSil methacrylate before (bottom curves) and after (top curves) irradiation with 3 wt % Darocur 1173 as photoinitiator at 1 Hz frequency.
+FIG. 37A depicts the 1H NMR spectrum of hydrolysis product in CD3OD.
+FIG. 37B depicts the 1H NMR spectrum of first extraction product.
+FIG. 37C depicts the 1H NMR spectrum of second extraction product in CDCl3.
+FIG. 37D depicts the 1H NMR spectrum of liquid residue after extraction in D2O.
+FIG. 37E depicts the 1H NMR spectrum of solid residue after extraction in CD3OD of 6-7PSil vinylbenzoate with 3 wt % Darocur 1173 as photoinitiator after irradiation.
+FIG. 38 depicts DSC diagrams of vinylbenzoic acid (solid) and polyvinylbenzoic acid (dot for first run and dash for second run) obtained from solution polymerization.
+FIG. 39 depicts the 1H NMR spectrum of 6-7PSil methacrylate in CDCl3.
+FIG. 40A depicts the 1H NMR spectrum of crude hydrolysis product in D2O.
+FIG. 40B depicts the 1H NMR spectrum of the first extraction product in CDCl3.
+FIG. 40C depicts the 1H NMR spectrum of the second extraction product in CDCl3.
+FIG. 41 depicts viscosity of 6-7Psil methacrylate before (bottom curve) and after (upper curve) irradiation with 3 wt % Darocur 1173 as photoinitiator.
+FIG. 42 depicts moduli of 6-7PSil methacrylate before (bottom curve) and after (upper curve) irradiation with 3 wt % Darocur 1173 as photoinitiator.
+FIG. 43 depicts the viscosity of D2EDA (bottom curve) and D2EDA acrylate before (middle curve) and after (upper curve) irradiation with 3 wt % Darocur 1173 as photoinitiator.
+FIG. 44 depicts moduli of D2EDA (bottom curve) and D2EDA acrylate (upper curve).
+FIG. 45 depicts moduli D2EDA acrylate after irradiation with 3 wt % Darocur 1173 as photoinitiator.
+FIG. 46 depicts vertically offset 1H NMR spectra in CD3OD of the hydrolysis product of ammoniumpolysiloxane vinylbenzoate after irradiation (1), and polyvinylbonzoic acid obtained from free radical solution polymerization (2).
+_____c:
+1-14. (canceled)
+15. A composition, comprising a polysiloxane comprising a plurality of pendant acids selected from the group consisting of carboxylic acids and sulfonic acids; and an amine.
+16. The composition of claim 15, wherein each of the plurality of pendant acids is a carboxylic acid.
+17. The composition of claim 15, wherein each of the plurality of pendant acids is a carboxylic acid attached to the polysiloxane via an alkyl chain optionally substituted with one or more alkyl, haloalkyl, halide, aryl, or aralkyl groups.
+18. The composition of claim 15, wherein each of the plurality of pendant acids is a sulfonic acid.
+19. The composition of claim 15, wherein each of the plurality of pendant acids is a sulfonic acid attached to the polysiloxane via an alkyl chain optionally substituted with one or more alkyl, haloalkyl, halide, aryl, or aralkyl groups.
+20. The composition of claim 15, wherein the amine is a primary amine.
+21. The composition of claim 15, wherein the amine is a secondary amine.
+22. The composition of claim 15, wherein the amine is a tertiary amine.
+23. The composition of claim 15, wherein the amine is a quaternary amine.
+24. The composition of claim 15, wherein the amine is a diamine or amidine.
+25. The composition of claim 15, wherein the amine is substituted with one, two, or three alkyl, alkenyl, alkynyl, cycloalkyl, aromatic, or alkoxy groups.
+26. The composition of claim 15, wherein the amine is acyclic.
+27. (canceled)
+28. A method of preparing the composition according to claim 15, comprising the step of combining a polysiloxane comprising a plurality of pendant acids selected from the group consisting of carboxylic acids and sulfonic acids; and an amine.
+29. The method of claim 28, further comprising the step of irradiating the composition.
+30. A battery, comprising a composition of claim 15.
+31. The battery of claim 30, further comprising a plurality of lithium ions.
+32. A composition for controlled release of a compound, comprising the composition of claim 15; and the compound.
+33. The composition of claim 32, wherein the compound is an active pharmaceutical ingredient.
+
+
+_______________NONTOXIC CATALYST FOR PREPARATION OF POLYSILOXANE (METH)ACRYLATES
+_____20191010_____XMLs/xml/ipa191010.xml
+_____US-20190309133-A1 : US-16464723 : US-62434129 : WO-PCT/US2017/060821-00
+_____C08G0077380000 : C08G0077160000 : C08G0077180000 : B01J0031020000
+A method for preparation of (meth)acrylate esters of polysiloxanes. The method comprises contacting in the presence of zirconium acetylacetonate or hafnium acetylacetonate: (i) a polysiloxane having at least two hydroxyl groups, each of which is attached to a carbon atom, and (ii) a C1-C4 alkyl (meth)acrylate.
+_____d:
+This invention relates to a method for preparation of (meth)acrylate esters of polysiloxanes.
+Use of catalysts for transesterification of hydroxy-functionalized polysiloxanes is known, e.g., in U.S. Pat. No. 4,940,766. However, this reference uses toxic tin compounds as catalysts and does not suggest the method described herein.
+The problem solved by this invention is the need for improved preparations of (meth)acrylate esters of polysiloxanes.
+STATEMENT OF THE INVENTION
+The present invention provides a method for preparation of (meth)acrylate esters of polysiloxanes; said method comprising contacting in the presence of zirconium acetylacetonate or hafnium acetylacetonate:
+(i) a polysiloxane having at least two hydroxyl groups, each of which is attached to a carbon atom, and (ii) a C1-C4 alkyl (meth)acrylate.
+DETAILED DESCRIPTION
+Percentages are weight percentages (wt %) and temperatures are in ° C. unless specified otherwise. Operations were performed at room temperature unless specified otherwise. The term “(meth)acrylic” means methacrylic or acrylic and “(meth)acrylate” means methacrylate or acrylate. Alkyl groups are saturated hydrocarbyl groups that may be straight or branched.
+As used herein, unless otherwise indicated, the phrase “molecular weight” or Mn refers to the number average molecular weight as measured by NMR analysis. Molecular weights are reported herein in units of g/mol.
+The hydroxyl groups on the polysiloxane are attached to different carbon atoms, preferably either to terminal carbon atoms located at each end of the polysiloxane or as pendant groups on the chain of the polymer. Preferably, the polysiloxane comprises siloxane units having substituents which can be C1-C12 alkyl, phenyl or combinations thereof. Other functional groups may be present on siloxane units, e.g., alkenyl, dialkylaminoalkyl and glycidoxyalkyl. Preferably, siloxane units having phenyl, C1-C12, alkyl substituents or a combination thereof (preferably phenyl or C1-C4 alkyl) comprise at least 50 wt % of the polysiloxane, preferably at least 75 wt %, preferably at least 85 wt %. Preferably, the siloxane has from two to ten hydroxyl groups, preferably from two to five hydroxyl groups, preferably two or three hydroxyl groups. In a preferred embodiment of the invention, the siloxane has only pendant hydroxyl-functional groups. In another preferred embodiment, the siloxane has only terminal hydroxy-functional groups. Preferably the polysiloxane has formula (I)
+wherein R is C1-C12, alkyl or phenyl; Y is a C1-C18 alkylene linker or a group of formula —(CH2)o(OCH2CHR1)pOH in which R1 is hydrogen, methyl or ethyl; o is from 1 to 6, p is from 1 to 30; j is from 3 to 200, k is 0 or from 2 to 10 and Z is hydroxyl or hydrogen. In a preferred embodiment of the invention, when Z is hydroxyl, k is 0; i.e., there are only terminal hydroxyl-functional groups. In another preferred embodiment, when Z is hydrogen k is at least 2; i.e., there are only pendant hydroxyl-functional groups.
+“R” groups on the siloxane may in some cases be different on different siloxane units, i.e., the siloxane may be a copolymer; “Y” groups also may be different. Preferably, R represents the same alkyl group wherever it appears, preferably C1-C4 alkyl or phenyl, preferably methyl or phenyl, preferably methyl. Preferably, Y is the same wherever it appears.
+Preferably, R1 is methyl or hydrogen, preferably hydrogen. R1 may represent more than one group in a particular substituent group, e.g., in mixed ethylene oxide/propylene oxide chains. In one preferred embodiment, Z is hydroxyl and k is 0. Preferably, j is at least 5, preferably at least 6, preferably at least 7; preferably no greater than 100, preferably no greater than 70, preferably no greater than 50, preferably no greater than 40, preferably no greater than 30. Preferably, o is at least 2; preferably no greater than 5. Preferably, p is at least 2, preferably at least 3, preferably at least 4, preferably at least 5; preferably no greater than 20, preferably no greater than 15. The parameters k, j, o and p are number averages. In a preferred embodiment, k is at least 2, preferably at least 3; preferably no more than 6, preferably no more than 5.
+A C1-C18 alkylene linker is a difunctional radical derived from an alkane by removing two hydrogen atoms. This group has two points of attachment; on the left-hand side of formula (I), Y has one to a hydroxyl group and one to a silicon atom. Preferably, Y is a C1-C12 alkylene linker, preferably C1-C8, preferably C2-C8, preferably C1-C6, preferably C2-C6. Preferably, Y is linear, i.e., it has the formula —(CH2)n—, wherein n is from 1 to 18; preferably at least 2; preferably no more than 12, preferably no more than 8, preferably no more than 6, preferably no more than 5. Preferably, Y represents the same group wherever it appears on the polysiloxane. Preferably, Z is hydroxyl.
+Preferably, the C1-C4 alkyl (meth)acrylate is methyl methacrylate, methyl acrylate, ethyl methacrylate, ethyl acrylate, butyl methacrylate or butyl acrylate; preferably methyl methacrylate, methyl acrylate, ethyl methacrylate or ethyl acrylate; preferably methyl methacrylate.
+Preferably, the catalyst is zirconium acetylacetonate (Zr(acac)4).
+Preferably, the amount of catalyst, as mole percent of the hydroxyl equivalents on the polysiloxane, is from 0.1 to 5%; preferably at least 0.2%, preferably 0.3%, preferably at least 0.35%; preferably no more than 3%, preferably no more than 1%, preferably no more than 0.7%, preferably no more than 0.6%.
+Preferably, the reaction temperature is from 20 to 140° C.; preferably at least 40° C., preferably at least 60° C., preferably at least 70° C.; preferably no greater than 120° C., preferably no greater than 90° C. Reaction times are dependent on polysiloxane structure and temperature, but may be determined by those skilled in the art. Typically, reaction times are from 1 to 12 hours. Preferably, the C1-C4 alcohol resulting from transesterification is removed by distillation during the reaction. Preferably, the pressure in the reaction vessel is from 1 to 200 mm Hg (0.1 to 27 kPa).
+In a preferred embodiment, the (meth)acrylate ester of a polysiloxane has the following structure
+wherein R, Y and j are as defined above, and R′ (in this structure) is methyl or hydrogen; preferably, R′ is methyl.
+Preferably, the number-average molecular weight (Mn) of the polysiloxane is from 300 to 20,000; preferably at least 400, preferably at least 500; preferably no greater than 15,000, preferably no greater than 10,000, preferably no greater than 7,000, preferably no greater than 5,000, preferably no more than 3,000, preferably no more than 2,000.
+EXAMPLES
+Inventive Example 1
+To a 1000 ml 4 necked flask fitted with a stirrer, thermometer, 10-tray Oldershaw column was added PDMS-bis(propyl alcohol) (208.6 g, 0.18 mol), methyl methacrylate (90.5 g, 0.9 mol) zirconium acetylacetonate (4.4 g, 0.01 mol) and 4-hydroxy TEMPO (34 mg). The solution was heated to 115° C. under vacuum (550 mmHg) and distillate was collected at the vapor temperature of 57° C. with a reflux/distillation split ratio of 5/1 and the distillate was collected in fractions over a 2.5 hour period, weighed accurately and analyzed by quantitative 1H-NMR. The amount of methanol collected was estimated from the NMR data and conversion was calculated from the MeOH removed. Conversion was determined to be >90% and the Oldershaw column was replaced with a distillation head and excess MMA was removed under reduced pressure. Resulting monomer solution weighed 230 g (conversion>92%).
+Comparative Example
+To a 1000 ml 4 necked flask fitted with a stirrer, thermometer, 10-tray Oldershaw column was added PDMS-bis(propyl alcohol) (424 g, 0.37 mol), methyl methacrylate (185.2 g, 1.85 mol) and 4-hydroxy TEMPO (34 mg). The resulting solution was dehydrated under vacuum (550 mmHg) at 102° C., approximately 30 g of distillate was collected. To the pot solution was added dibutyl tin oxide (1.2 g, 0.01 mol). The solution was heated to 115° C. under vacuum (550 mmHg) and distillate was collected at the vapor temperature of 57° C. with a reflux/distillation split ratio of 5/1 and the distillate was collected in fractions over a 5 hour period, weighed accurately and analyzed by quantitative 1H-NMR. The amount of methanol collected was estimated from the NMR data and conversion was calculated from the MeOH removed. Conversion was determined to be 88% and the Oldershaw column was replaced with a distillation head and excess MMA was removed under reduced pressure. Resulting monomer solution weighed 450 g (conversion 91%).
+Inventive Example 2
+A 1 L, 5-necked flask fitted with a temperature monitoring thermocouple, a 10-tray Oldershaw column/automatic distillation head, and a gas inlet tube was charged with approximately 95.0 g (0.949 mol) methyl methacrylate, 190.5 g (0.225 mol OH) (carbinol functional)methylsiloxane-dimethylsiloxane copolymer (having ca. 2-5 pendant groups comprising —(CH2)3O(CH2CH2O)4-8H and Mn ca. 4000), along with MEHQ (0.54 g, 2000 ppm) and 4-HT (0.20 g, 750 ppm) inhibitors. The mixture was then heated at a pressure of 500 mm Hg under an 8% O2/N2 purge. When the temperature of the flask contents reached 100° C., the contents of the solution started to boil, and the vapor temperature rose to 88-89° C. Over the next hour, 10 mL of distillate was drawn off using a reflux ratio of 5:1.
+After cooling to RT, a single charge of 1.0 g Zr(acac)4 (0.002 mol) was added to the flask. The flask contents were then heated at 500 mm Hg under an 8% O2/N2 purge. After 1 hour, no evidence of MMA-methanol azeotrope formation was observed. The flask was then cooled to RT, and a second charge of 4.0 g Zr(acac)4 (0.008 mol) was added to the flask contents. Heating under reduced pressure was resumed. Within 30 minutes, MMA-MeOH azeotrope formation was observed (pot temperature 112° C., initial vapor temperature 62° C.). The flask contents were refluxed for 30 minutes until the vapor temperature dropped to a constant 57° C. At this point, the azeotrope was distilled off using a reflux ratio of 10:1. In 30 minutes, approximately 15 mL of distillate was obtained. As the vapor temperature increased to 89° C., an additional 5 mL distillate was collected. The distillate was weighed and analyzed via NMR spectroscopy. Conversion was determined to be 86.0% based upon the quantity of methanol in the distillate.
+Excess MMA was removed from the product using simple distillation under reduced pressure until no further volatiles were able to be removed (<2% residual MMA). The final product was 199.1 g of a transparent reddish-orange liquid of moderate viscosity. NMR analysis of the product indicated approximately 85% of the hydroxyl groups were converted into methacrylate moieties.
+Inventive Example 3
+A 1 L, 5-necked flask fitted with a temperature monitoring thermocouple, a 10-tray Oldershaw column/automatic distillation head, and a gas inlet tube was charged with approximately 136.1 g (1.36 mol) methyl methacrylate and 196 g (0.115 mol OH) of 9 dimethyl siloxane, dimethyl(propyl(polyethylene oxide)hydroxyl)siloxy-terminated (having only terminal groups comprising —(CH2)3O(CH2CH2O)10-20H and Mn ca. 2000-3000), along with MEHQ (0.25 g, 800 ppm) and 4-HT (0.1 g, 300 ppm) inhibitors. The mixture was then heated at a pressure of 500 mm Hg under an 8% O2/N2 purge. When the temperature of the flask contents reached 100° C., the contents of the solution started to boil, and the vapor temperature rose to 88-89° C. Over the next hour, around 35 mL of distillate was drawn off using a reflux ratio of 5:1.
+After cooling to RT, a single charge of 2.2 g (0.0045 mole) Zr(acac)4 was added to the flask. The flask contents were then heated at 500 mm Hg under an 8% O2/N2 purge. Within 30 minutes, MMA-MeOH azeotrope formation was observed (pot temperature 105° C., initial vapor temperature 57° C.). The contents were refluxed for 30 minutes until the vapor temperature reached 56° C. At this point, the azeotrope was removed via distillation using a reflux ratio of 10:1. In 30 minutes, approximately 10 mL of distillate was obtained. An additional 5 mL distillate was collected as the vapor temperature increased to 89° C. The distillate was weighed and analyzed via NMR spectroscopy. Conversion was determined to be 97.9% based upon the quantity of methanol in the distillate.
+Excess MMA was removed from the product using simple distillation under reduced pressure until NMR analysis indicated less than 1% residual MMA. The final product was 200.1 g of a transparent orange-yellow liquid of moderate viscosity. NMR analysis of the product indicated>98% esterification of the hydroxyl groups to methacrylate moieties.
+_____c:
+1. A method for preparation of (meth)acrylate esters of polysiloxanes; said method comprising contacting in the presence of zirconium acetylacetonate or hafnium acetylacetonate:
+(i) a polysiloxane having at least two hydroxyl groups, each of which is attached to a carbon atom, and (ii) a C1-C4 alkyl (meth)acrylate.
+2. The method of claim 1 in which the polysiloxane comprises siloxane units having phenyl substituents, C1-C12 alkyl substituents or a combination thereof.
+3. The method of claim 2 in which (i) and (ii) are contacted in the presence of zirconium acetylacetonate.
+4. The method of claim 3 in which siloxane units having phenyl, C1-C12 alkyl substituents or a combination thereof comprise at least 50 wt % of the polysiloxane and the polysiloxane has from two to ten hydroxyl groups.
+5. The method of claim 4 in which the polysiloxane has formula (I)
+wherein R is C1-C12, alkyl or phenyl; Y is a C1-C18 alkylene linker or a group of formula —(CH2)o(OCH2CHR1)pOH in which R1 is hydrogen, methyl or ethyl; o is from 1 to 6, p is from 1 to 30; j is from 3 to 200, k is 0 or from 2 to 10 and Z is hydroxyl or hydrogen.
+6. The method of claim 5 in which k is 0 and Z is hydroxyl.
+7. The method of claim 6 in which j is from 5 to 70.
+8. The method of claim 7 in which R is phenyl or C1-C4 alkyl and Y is a C2-C8 alkylene linker.
+9. The method of claim 8 in which R is methyl, j is from 5 to 40.
+
+
+_______________METHOD FOR THE PREPARATION OF ORGANOPOLYSILOXANES HAVING (METH)ACRYLATE FUNCTIONS
+_____20190509_____XMLs/xml/ipa190509.xml
+_____US-20190135983-A1 : US-16096892 : FR-1600717 : WO-PCT/FR2017/000079-00
+_____C08G0077380000 : C08G0077140000 : C08G0077080000 : C08L0083060000 : C09D0183060000
+The invention relates to a method for preparing polyorganosiloxanes functionalized by (meth)acrylate groups, preferably acrylate groups.
+_____d:
+The present invention relates to a process for preparing organopolysiloxanes functionalized with (meth)acrylate groups, preferably acrylate groups. For the whole of the document, it should be understood that (meth)acrylate groups comprise acrylate groups, methacrylate groups or a mixture of both.
+These (meth)acrylate functionalities are present in hydrocarbon-based radicals bonded to the polysiloxane chain by an Si—C bond which may be present in the chain or at the chain end. These (meth)acrylic acid ester functions are capable of reacting, via the radical route, under actinic and/or heat activation according to a polyaddition polymerization mechanism.
+These (meth)acrylate-f unction-comprising organopolysiloxanes are widely used in radically crosslinkable silicone compositions for producing an elastomer, which can optionally be thin-film-coated onto a flexible support which is made of textile, paper, polyvinyl chloride (PVC), polyester, polypropylene, polyamide, polyethylene, polyethylene terephthalate (PET), polyurethane or nonwoven glass fibers.
+The coating of silicone formulations onto flexible supports is intended for numerous applications. For example, when the flexible support is a textile, waterproofing properties are intended, or when the support is a paper or a polymer of PVC or PET type, non-stick properties are usually sought.
+Non-stick coatings are useful for numerous applications where it is required to render a surface or a material non-stick with respect to other materials, to which said surface or material would normally stick. For example, silicone compositions are used as coatings for non-stick papers and can thus be combined with adhesive elements that can be easily released without losing their adhesive properties, these elements possibly being pressure-sensitive adhesives for labels, decorative laminates, transfer tape, etc. Silicone-based non-stick coatings applied on paper, polyethylene, polypropylene, polyester and other supports of this type are also used as non-stick surfaces for products for food use and in particular in the industrial packaging sector.
+There has consequently for a long time been a great deal of interest in these (meth)acrylate-function-comprising organopolysiloxanes and the preparation thereof can be envisioned in various ways described in the prior art.
+It is known that (meth)acrylate-function-comprising organopolysiloxanes are obtained industrially by reaction between an organopolysiloxane functionalized with epoxy groups and (meth)acrylic acid in the presence of a chromium-based catalyst. The (meth)acrylic acid reacts with the epoxy group to form a (meth)acrylic acid monoester comprising a hydroxyl group in the vicinal position. This reaction is described in comparative example 2 of patent FR 2632960 wherein an organopolysiloxane with epoxy functions reacts with acrylic acid in the presence of chromium(III) 2-ethylhexanoate as catalyst, to obtain an organopolysiloxane with acrylate functions. No solvent is used for carrying out this reaction and a reaction time of 30 hours at 100° C. is described. When the teaching of this reference was reproduced, it was noted that the reaction medium was heterogeneous, no doubt because of the lack of solubility of the catalyst in the organopolysiloxanes. As long as the reaction medium is not stirred, a deposit forms, which is a major drawback for its industrial use since deposits in equipment can lead to blockages and complex systems for rinsing and cleaning reactors and pipes need to be implemented in order to manage this risk. Patent EP 1276825-B1 also teaches the preparation of acrylate-function-comprising organopolysiloxanes by reaction between an organopolysiloxane having epoxy functionalities and acrylic acid in the presence of chromium(III) acetate and of two solvents, one of which being an alcohol. Nevertheless, the yield and the selectivity of this process can be improved. Furthermore, the compositions comprising the acrylic-function-comprising organopolysiloxanes obtained according to the teaching of patent EP 1276825 have an unpleasant odor that is uncomfortable for users of these compositions.
+In this context, one of the essential objectives of the present invention is to develop a process for preparing organopolysiloxanes functionalized with (meth)acrylate groups with an improved yield and an optimized reaction time, for example less than 10 hours, and not having any unpleasant odor.
+Another essential objective of the present invention is to provide a process for preparing organopolysiloxanes functionalized with (meth)acrylate groups, which is easy to implement during industrial production, minimizing the risks of blocking up the equipment.
+Another essential objective of the present invention is to provide a process for preparing organopolysiloxanes functionalized with (meth)acrylate groups, the industrial implementation of which is controlled by decreasing the concentration of catalyst.
+Another essential objective of this invention is to provide a process for preparing organopolysiloxanes functionalized with (meth)acrylate groups, wherein the organopolysiloxane chain length is not modified, that is to say wherein there are no siloxane bond cleavage and redistribution reactions (chain shortening) nor any bridging (chain extending) reactions, for example by the side reaction between an epoxide and the hydroxyl function of the hydroxy acrylate or by the epoxide polymerization.
+Another objective of this invention is to provide a process for producing a silicone coating on a substrate with good properties of attachment or adhesion to the substrate.
+All these objectives, among others, are achieved by the present invention which relates to a process for preparing a composition X comprising at least one organopolysiloxane A comprising at least one (meth)acrylate group, said process comprising the following steps:
+a) at least one organopolysiloxane B comprising at least one epoxy group is reacted, at a temperature of between 50 and 130° C., preferably between 70 and 130° C. and even more preferentially between 90 and 125° C., with acrylic acid or methacrylic acid or a mixture of the two, in the absence of alcohol and in the presence:
+of a catalyst C which is a complex of chromium in the oxidation state (III),
+of at least 4.5% by weight, relative to the total weight of the reaction medium of this step a), of a solvent S and
+of at least one inhibitor of polymerization of acrylic acid or of methacrylic acid,
+b) the reaction medium obtained at the end of step a) is devolatilized and
+c) said composition X comprising at least one organopolysiloxane A is obtained.
+Step a) of the process for preparing the composition X according to the invention is carried out in the absence of alcohol and in particular in the absence of butanol.
+The term “solvent” is intended to mean a non-reactive solvent. Consequently, the solvent S is different than the organopolysiloxane B, than acrylic acid and than methacrylic acid.
+According to another embodiment, the process for preparing the composition in X according to the invention is carried out in the absence of double-bond-free carboxylic acid. As double-bond-free carboxylic acid, mention may be made of alkyl carboxylic acids having from 2 to 11 carbon atoms. Examples of such monocarboxylic acids are acetic acid, propionic acid, butyric acid, valeric acid, pivalic acid, 2,2-dimethylbutyric acid, 2,2-dimethylvaleric acid, acetoacetic acid, isooctanecarboxylic acid, isododecanecarboxylic acid, scorbic acid and undecanoic acid, and in particular acetic acid. Preferably, the process for preparing the composition X according to the invention is carried out in the absence of acetic acid.
+The process for preparing the composition X according to the invention has the advantage of obtaining an improved organopolysiloxane A yield. The inventors, to their credit, have identified that the implementation of the process in the absence of alcoholic solvent makes it possible to obtain a better organopolysiloxane A yield. Furthermore, this process has the advantage of having, in step a), a homogeneous and clear reaction medium simplifying the industrial implementation of said process, limiting the risk of blocking of the equipment and, consequently, improving health and safety conditions. Moreover, the process according to the invention does not modify the chain length of the starting organopolysiloxane B, while at the same time having a yield and a duration compatible with an industrial production. Another advantage of the process according to the invention is that the composition X obtained does not have an unpleasant odor.
+Another advantage of the process according to the invention is that, in step a) of the process, a degree of conversion of the epoxy groups of greater than 98% can be obtained in less than six hours. Those skilled in the art will know how to adjust the reaction time of step a) of the process according to the invention as a function of the temperature in order to obtain a sufficient degree of conversion.
+According to one preferential embodiment of the invention, the duration of step a) is between one and five hours when the temperature of step a) is between 90 and 125° C.
+The organopolysiloxane A obtained by means of the process of the invention comprises siloxyl units (I.2), (I.3), and optionally (I.1), of formulae below:
+Y
+a
+
+Z
+b
+1
+
+SiO
+4
+-
+(
+a
++
+b
+)
+2
+(
+I
+
+.1
+)
+Z
+c
+2
+
+SiO
+4
+-
+c
+2
+(
+I
+
+.2
+)
+V
+d
+
+Z
+e
+1
+
+SiO
+4
+-
+(
+d
++
+e
+)
+2
+(
+I
+
+.3
+)
+wherein:
+a=1 or 2, b=0, 1 or 2 and a+b=1, 2 or 3,
+c=0, 1, 2 or 3,
+d=1 or 2, e=0, 1 or 2 and d+e=1, 2 or 3,
+the symbols Y, which may be identical or different, represent a hydrocarbon-based group comprising an epoxy group and optionally also comprising one or more heteroatoms, such as an oxygen atom, said hydrocarbon-based group Y preferably having from 2 to 20 carbon atoms inclusive, and, even more preferentially, Y is chosen from the group consisting of an alkyl glycidyl ether, a linear, branched or cyclic epoxyalkyl, a linear, branched or cyclic epoxyalkenyl and a carboxylic acid glycidyl ester;
+the symbols Z1 and Z2, which may be identical or different, represent a monovalent hydrocarbon-based group having from 1 to 30 carbon atoms and preferably chosen from the group consisting of alkyl groups having from 1 to 8 carbon atoms and aryl groups having from 6 to 12 carbon atoms, and even more preferentially chosen from the group consisting of a methyl, ethyl, propyl, 3,3,3-trifluoropropyl, xylyl, toluyl and phenyl group;
+the symbols V, which may be identical or different, represent a hydrocarbon-based group comprising a (meth)acrylate group, said hydrocarbon-based group V preferably having from 5 to 23 carbon atoms inclusive, and
+said organopolysiloxane A comprises, per molecule, at least two silicon atoms and at least one siloxyl unit (I.3).
+The organopolysiloxane B comprises siloxyl units (I.1) and (I.2) of formulae below:
+Y
+a
+
+Z
+b
+1
+
+SiO
+4
+-
+(
+a
++
+b
+)
+2
+
+
+and
+(
+I
+
+.1
+)
+Z
+c
+2
+
+SiO
+4
+-
+c
+2
+(
+I
+
+.2
+)
+wherein:
+a=1 or 2, b=0, 1 or 2 and a+b=1, 2 or 3,
+c=0, 1, 2 or 3,
+the symbols Y, which may be identical or different, represent a hydrocarbon-based group comprising an epoxy group and optionally also comprising one or more heteroatoms, such as an oxygen atom, said hydrocarbon-based group Y preferably having from 2 to 20 carbon atoms inclusive, and, even more preferentially, Y is chosen from the group consisting of an alkyl glycidyl ether, a linear, branched or cyclic epoxyalkyl, a linear, branched or cyclic epoxyalkenyl and a carboxylic acid glycidyl ester;
+the symbols Z1 and Z2, which may be identical or different, represent a monovalent hydrocarbon-based group having from 1 to 30 carbon atoms and preferably chosen from the group consisting of alkyl groups having from 1 to 8 carbon atoms and aryl groups having from 6 to 12 carbon atoms, and even more preferentially chosen from the group consisting of a methyl, ethyl, propyl, 3,3,3-trifluoropropyl, xylyl, toluyl and phenyl group; and
+said organopolysiloxane B comprises, per molecule, at least two silicon atoms and at least one siloxyl unit (I.1).
+Preferably, for the siloxyl unit (I.1), the symbol Y is chosen from the group consisting of the hydrocarbon-based groups (R-1) to (R-6) of formulae below:
+According to one particularly preferred embodiment, in the siloxyl unit (I.1), the symbol Y is the hydrocarbon-based group (R-4) of formula below:
+These organopolysiloxanes B can have a linear, branched or cyclic structure and their degree of polymerization is between 2 and 5000, preferably between 2 and 1000 and even more preferentially between 2 and 500.
+Preferably, the organopolysiloxane B has a linear structure and comprises siloxyl units (I.1) and (I.2) of formulae below:
+Y
+a
+
+Z
+b
+1
+
+SiO
+4
+-
+(
+a
++
+b
+)
+2
+(
+I
+
+.1
+)
+Z
+c
+2
+
+SiO
+4
+-
+c
+2
+(
+I
+
+.2
+)
+wherein:
+a=1 or 2, b=0, 1 or 2 and a+b=2 or 3,
+c=2 or 3,
+the symbols Y, which may be identical or different, represent a hydrocarbon-based group comprising an epoxy group and optionally also comprising one or more heteroatoms, such as an oxygen atom, said hydrocarbon-based group Y preferably having from 2 to 20 carbon atoms inclusive, and even more preferentially, Y is chosen from the group consisting of an alkyl glycidyl ether, a linear, branched or cyclic epoxyalkyl, a linear, branched or cyclic epoxyalkenyl and a carboxylic acid glycidyl ester;
+the symbols Z1 and Z2, which may be identical or different, represent a monovalent hydrocarbon-based group having from 1 to 30 carbon atoms and preferably chosen from the group consisting of alkyl groups having from 1 to 8 carbon atoms and aryl groups having from 6 to 12 carbon atoms, and even more preferentially chosen from the group consisting of a methyl, ethyl, propyl, 3,3,3-trifluoropropyl, xylyl, toluyl and phenyl group; and
+said organopolysiloxane B comprising, per molecule, at least two silicon atoms and at least one siloxyl unit (I.1).
+When it is a linear polymer, the organopolysiloxane B essentially consists of siloxyl units “D” chosen from the group consisting of the siloxyl units Y2SiO2/2, YZ1SiO2/2 and Z22SiO2/2, and of siloxyl units “M” chosen from the group consisting of the siloxyl units Y3SiO1/2, YZ12SiO1/2, Y2Z1SiO1/2 and Z23SiO1/2. The symbols Y, Z1 and Z2 are as described above.
+According to one preferred embodiment of the invention, the organopolysiloxane B essentially consists of siloxyl units “D” chosen from the group consisting of the siloxyl units YZ1SiO2/2 and Z22SiO2/2, and of siloxyl units “M” chosen from the group consisting of the siloxyl units YZ12SiO1/2 and Z23SiO1/2. The symbols Y, Z1 and Z2 are as described above.
+The organopolysiloxane B has a dynamic viscosity at 25° C. of between 1 and 100 000 mPa·s, preferably between 10 and 50 000 mPa·s, and even more preferentially between 10 and 10 000 mPa·s.
+All the viscosities referred to in the present disclosure correspond to a magnitude of dynamic viscosity at 25° C. termed “Newtonian”, that is to say the dynamic viscosity which is measured, in a manner known per se, with a Brookfield viscometer at a shear rate gradient sufficiently low for the viscosity measured to be independent of the rate gradient.
+According to one preferential embodiment of the invention, the organopolysiloxane B contains, per molecule, from 1 to 100 siloxyl units (I.1) bearing at least one hydrocarbon-based group comprising an epoxy group. According to one more preferential embodiment, the organopolysiloxane B contains, per molecule, from 2 to 50 siloxyl units (I.1) and more preferentially the organopolysiloxane B contains, per molecule again, from 2 to 15 siloxyl units (I.1).
+According to another embodiment, the organopolysiloxane B contain from 1% to 60% by weight of hydrocarbon-based groups Y comprising an epoxy group, preferably from 1% to 30% by weight and even more preferentially from 1% to 15% by weight.
+According to one preferential embodiment of the process according to the invention, the organopolysiloxane B is chosen from the compounds of formulae (B-1) to (B-4) below:
+(B-1) wherein R is an alkyl group comprising from 2 to 5 carbon atoms, a is between 2 and 50 and preferentially between 2 and 15, and b is between 20 and 400;
+(B-2) wherein n is between 0 and 250;
+(B-3) wherein x is between 10 and 300 and y is between 2 and 30, preferably between 2 and 15; and
+(B-4) wherein x is between 0 and 250.
+According to the applications envisioned for the organopolysiloxane A, a degree of conversion of the epoxy functions of the organopolysiloxane B, which is total or partial, may be desired. It is thus possible to obtain an organopolysiloxane A comprising epoxy functions and (meth)acrylate functions which can be used for example as an adhesion modulator or as an adhesion promoter, or an organopolysiloxane A comprising only or essentially (meth)acrylate functions, which is used for example as an essential constituent of radically crosslinkable silicone compositions for producing an elastomer. The molar ratio R between the (meth)acrylic acid and the epoxy functions of the organopolysiloxane B used in the process will be adjusted accordingly.
+According to one embodiment of the process according to the invention, in step a), the molar ratio R between the (meth)acrylic acid and the epoxy group(s) borne by the organopolysiloxane B is greater than 1 and preferably between 1.05 and 1.50, and even more preferentially between 1.05 and 1.20.
+For the whole of the document, the (meth)acrylic acid comprises acrylic acid and methacrylic acid.
+According to one preferred embodiment of the process according to the invention, in step a), the molar ratio R between the acrylic acid and the epoxy group(s) borne by the organopolysiloxane B is greater than 1 and preferably between 1.05 and 1.50, and even more preferentially between 1.05 and 1.20.
+The catalyst C is a complex of chromium in the oxidation state (III).
+Preferably, the catalyst C is a chromium complex of formula (1) below:
+[Cr(L1)3]  (1)
+wherein the symbols L1, which may be identical or different, represent a carboxylate anion.
+According to one embodiment of the invention, the catalyst C is a chromium(III) carboxylate of formula (1) below:
+[Cr(L1)3]  (1)
+wherein the symbols L1 are ligands, which may be identical or different, chosen from the group of carboxylate anions, having from 1 to 40 carbon atoms.
+The carboxylate ligands L1 of use according to the invention are for example:
+anions derived from aliphatic carboxylic acids, such as the anions: methanoate or formate [H—COO]−, ethanoate or acetate [CH3—COO]−, propanoate or propionate [CH3CH2—COO]−, butanoate or butyrate [CH3—(CH2)2—COO]−, pentanoate or valerate [CH3—(CH2)3—COO]−, hexanoate or caproate [CH3—(CH2)4—COO]−, heptanoate [CH3—(CH2)5—COO]−, octanoate [CH3—(CH2)6—COO]−, 2-ethyl hexanoate [CH3—(CH2)4—CH(C2H5)—COO]−, nonanoate [CH3—(CH2)7—COO]−, decanoate [CH3—(CH2)8—COO]−, undecanoate [CH3—(CH2)9—COO]−, dodecanoate or laurate [CH3—(CH2)10—COO]−, tridecanoate [CH3—(CH2)11—COO]−, tetradecanoate or myristate [CH3—(CH2)12—COO]−, pentadecanoate [CH3—(CH2)13—COO]−, hexadecanoate or palmitate [CH3—(CH2)14—COO]−, heptadecanoate [CH3—(CH2)15—COO]−, octadecanoate or stearate [CH3—(CH2)16—COO]−, nonadecanoate [CH3—(CH2)17—COO]−, eicosanoate [CH3—(CH2)18—COO]−, heneicosanoate [CH3—(CH2)19—COO]−, docosanoate or behenate [CH3—(CH2)20—COO]−, tricosanoate [CH3—(CH2)21—COO]−, tetracosanoate or lignocerate [CH3—(CH2)22—COO]−, pentacosanoate [CH3—(CH2)23—COO]−, hexacosanoate [CH3—(CH2)24—COO]−, heptacosanoate acid [CH3—(CH2)25—COO]−, octacosanoate [CH3—(CH2)26—COO]−, nonacosanoate [CH3—(CH2)27—COO]−, triacontanoate [CH3—(CH2)28—COO]−, hentriacontanoate [CH3—(CH2)29—COO]−, dotriacontanoate [CH3—(CH2)30—COO]−, palmitoleate [CH3—(CH2)5—CH═CH—(CH2)7—COO]−, oleate [CH3(CH2)7CH═CH(CH2)7COO]−, linoleate [CH3—(CH2)4—(CH═CHCH2)2—(CH2)6—COO]−, linolenate [CH3—CH2—(CH═CHCH2)3—(CH2)6—COO]−, arachidonate [CH3—(CH2)4—(CH═CHCH2)4—(CH2)2—COO]−,
+anions derived from substituted aliphatic carboxylic acids, such as, for example, neopentanoate or pivalate [(CH3)3C—COO]−, neononanoate [(CH3)3C—(CH2)4—COO]−, or else the following C10 structural isomers, taken alone or as a mixture (neodecanoate): 7,7-dimethyl octanoate [(CH3)3C—(CH2)5—COO]−, 2,2-dimethyl octanoate [CH3—(CH2)5—C(CH3)2—COO]−, 2,2,3,5-tetramethyl hexanoate [(CH3)2CH—CH2—CH(CH3)—C(CH3)2—COO]−, 2,5-dimethyl-2-ethyl hexanoate [(CH3)2CH—(CH2)2—C(CH3)(C2H5)—COO]−, 2,2-diethyl hexanoate [CH3—(CH2)3—C(C2H5)2—COO]−, 2,4-dimethyl-2-isopropyl pentanoate [(CH3)2CH—CH2—C(CH3)(i-propyl)-COO]−,
+the corresponding carboxylate anions of Versatic™ acid 10 (sold by the company Momentive) of empirical formula [C10H19O2]− and of linear formula [(R1)(R2)C(CH3)—COO]− with the symbols R1 and R2 being alkyls,
+anions derived from aromatic carboxylic acids, such as anions of benzoate, phenyl acetate, phenyl propionate or phenyl butyrate type,
+anions derived from carboxylic acids comprising an unsaturation, such as the acrylate anion or the methacrylate anion, and
+naphthenate anions.
+C10 to C20 naphthenate anions are the corresponding anions of naphthenic acids. Naphthenic acids are by-products of the extraction of bitumen oil sands and are found mainly in bitumen oil sand residues. Commercial mixtures of naphthenic acids are used as solvents, detergents and rubber recovering agents. They may be mixtures of monocyclic and/or bicyclic carboxylic acids.
+According to one embodiment of the process, it is preferable for the ligands not to have too high a molecular weight. Consequently, according to one preferential embodiment, the carboxylate ligands have from 1 to 20 carbon atoms, and even more preferentially from 1 to 12 carbon atoms.
+According to one particularly advantageous embodiment, the catalyst C is a carboxylate of chromium in the oxidation state (III), chosen from the group consisting of chromium(III) acrylate, chromium(III) methacrylate, chromium(III) acetate, chromium(III) 2-ethylhexanoate, chromium(III) neodecanoate and mixtures thereof.
+According to another embodiment of the process according to the invention, the chromium(III) carboxylate can be generated in situ.
+According to one embodiment, the concentration of catalyst C, expressed as mol % relative to the epoxy groups of the organopolysiloxane B, is between 0.05% and 1%, preferably between 0.05% and 0.5%, more preferentially between 0.05% and 0.3% and even more preferentially between 0.05% and 0.25%.
+Another advantage of the process according to the invention is that it is possible to use a small amount of catalyst.
+According to one preferred embodiment of the invention, in step a), the solvent S is chosen from the group consisting of methyl isobutyl ketone, methyl ethyl ketone, toluene, xylene, chlorobenzene and mixtures thereof.
+Preferably, in the process according to the invention, there is no solvent other than the solvent S chosen from the group consisting of methyl isobutyl ketone, methyl ethyl ketone, toluene, xylene, chlorobenzene and mixtures thereof.
+More preferentially, the solvent S is methyl isobutyl ketone.
+Even more preferentially, in the process according to the invention, there is no solvent other than methyl isobutyl ketone.
+According to one embodiment of the process according to the invention, the content of solvent S used in step a) of the process as described above is between 4.5% and 20% by weight, preferably between 4.5% and 15% by weight, more preferentially between 5% and 15% by weight, and even more preferentially between 5% and 13% by weight, relative to the total weight of the reaction mixture used in step a) of the process.
+If the amount of solvent S is less than 4.5% by weight relative to the total weight of the reaction medium used in step a) of the process according to the invention, the reaction medium of step a) is heterogeneous, which complicates its industrial use since risks of fouling and blocking of industrial pipes occur.
+If the amount of solvent S is greater than 20% by weight relative to the total weight of the reaction medium used in step a) of the process according to the invention, the reaction time required to achieve a degree of conversion of the epoxy groups of greater than 98% could increase.
+According to one preferential embodiment of the invention, in step a), the catalyst C, the inhibitor of (meth)acrylic acid polymerization, the solvent S and a part or all of the (meth)acrylic acid can be premixed before the addition of the organopolysiloxane B.
+In the process according to the invention, in step a), an inhibitor of (meth)acrylic acid polymerization is introduced. Inhibitors of (meth)acrylic acid polymerization are widely known and, by way of example, mention may be made of phenolic compounds such as 4-methoxyphenol, hydroquinone and methyl hydroquinone, or alkyl diphenyl amines such as, for example, phenothiazine. Preferably, methyl ether of hydroquinone (MEHQ) or 4-methoxyphenol is used as inhibitor of (meth)acrylic acid polymerization. According to one preferential embodiment, the amount of polymerization inhibitor used is between 0.01% and 1% by weight relative to the organopolysiloxane B and even more preferentially between 0.01% and 0.5%.
+In step b) of the process according to the invention, the reaction medium obtained at the end of step a) is devolatilized. For this, the reaction medium resulting from step a) is heated at a temperature of between 80 and 130° C. under reduced pressure. This devolatilization step makes it possible to evaporate off the solvent S and the excess (meth)acrylic acid.
+The solvent S used in the process according to the invention can be recycled.
+According to another embodiment, a filtration step can also be carried out before or after step b). Preferably, if a filtration step is added to the process according to the invention, it takes place after step b).
+According to another embodiment of the invention, the process according to the invention consists of the following steps:
+a) at least one organopolysiloxane B comprising at least one epoxy group is reacted, at a temperature of between 50 and 130° C., preferably between 70 and 130° C. and even more preferentially between 90 and 125° C., with acrylic acid or methacrylic acid or a mixture of the two, in the absence of alcohol and in the presence:
+of a catalyst C which is a complex of chromium in the oxidation state (III),
+of at least 4.5% by weight, relative to the total weight of the reaction medium of this step a), of a solvent S and
+of at least one inhibitor of polymerization of acrylic acid or of methacrylic acid,
+b) the reaction medium obtained at the end of step a) is devolatilized,
+c) optionally, the reaction medium obtained at the end of step b) is filtered, and
+d) said composition X comprising at least one organopolysiloxane A is obtained.
+During the implementation of the process, it is possible but not necessary to carry out steps a) and b) under an inert atmosphere. According to one preferred embodiment, when a phenolic compound is used as (meth)acrylic acid inhibitor, steps a) and b) of the process will be carried out under air and even more preferentially under flushing with dry air.
+Another subject of the invention relates to the composition X which can be obtained by means of the process described above.
+A final subject of the invention relates to a process for producing a coating on a substrate, comprising the following steps:
+a) a composition X is prepared according to the process as described above,
+b) a radically crosslinkable silicone composition W is prepared, comprising:
+i. said composition X,
+ii. a photoinitiator, and
+iii. optionally at least one additive,
+c) said composition W is applied to a substrate, and
+d) said composition W is crosslinked by exposure to radiation.
+Preferably, the substrate is a flexible textile, paper, polyvinyl chloride, polyester, polypropylene, polyamide, polyethylene, polyethylene terephthalate, polyurethane or nonwoven glass fiber support.
+According to one preferred embodiment of the invention, in step d), the radiation is ultraviolet light with a wavelength of less than 400 nanometers.
+The irradiation time can be short and it is generally less than 1 second and is of the order of a few hundredths of a second for small coating thicknesses. The crosslinking obtained is excellent even in the absence of any heating.
+According to another embodiment, the crosslinking step d) is carried out at a temperature of between 40 and 100° C.
+Of course, the curing time can in particular be adjusted, by means of the number of UV lamps used, the UV exposure time and the distance between the composition and the UV lamp.
+The amount of composition W deposited on the substrate is variable and usually ranges between 0.1 and 5 g/m2 of surface area treated. This amount depends on the nature of the support and on the desired non-stick properties. It is usually between 0.5 and 1.5 g/m2.
+This process is particularly suitable for preparing a non-stick silicone coating on a substrate which is a flexible textile, paper, polyvinyl chloride, polyester, polypropylene, polyamide, polyethylene, polyethylene terephthalate, polyurethane or nonwoven glass fiber support.
+These coatings are particularly suitable for use in the non-stick field.
+For polymerizing organopolysiloxanes functionalized with (meth)acrylate groups, those skilled in the art will be able to choose a suitable radical photoinitiator which absorbs light radiation with a wavelength of less than 400 nm. As an example of radical photoinitiators, mention may be made of: a-hydroxy ketones, benzoin ethers and aromatic a-amino ketones. By way of examples of a radical photoinitiator, mention will in particular be made of the following products: isopropylthioxanthone; benzophenone; camphorquinone; 9-xanthenone; anthraquinone; 1,4-dihydroxyanthraquinone; 2-methylanthraquinone; 2,2′-bis(3-hydroxy-1,4-naphthoquinone); 2,6-dihydroxyanthraquinone; 1-hydroxycyclohexyl phenyl ketone; 1,5-dihydroxyanthraquinone; 1,3-diphenyl-1,3-propanedione; 5,7-dihydroxyflavone; dibenzoyl peroxide; 2-benzoylbenzoic acid; 2-hydroxy-2-methylpropiophenone; 2-phenylacetophenone; 2,4,6-trimethylbenzoyldiphenylphosphine oxide; anthrone; bis(2,6-dimethylbenzoyl)-2,4,4-trimethylpentylphosphine oxide; 4,4′-dimethoxybenzoin; phenanthrenequinone; 2-ethylanthraquinone; 2-methylanthraquinone; 1,8-dihydroxyanthraquinone; dibenzoyl peroxide; 2,2-dimethoxy-2-phenylacetophenone; benzoin; 2-hydroxy-2-methylpropiophenone; benzaldehyde; 4-(2-hydroxyethoxy)phenyl(2-hydroxy-2-methylpropyl) ketone; benzoylacetone; ethyl (2,4,6-trimethylbenzoyl)phenylphosphinate; and mixtures thereof.
+By way of examples of commercial products of radical photoinitiators, mention may be made of the products sold by the company Ciba-Geigy: Irgacure® 369, Irgacure® 651, Irgacure® 907, Darocure® 1173, etc.
+The amount of photoinitiator in the composition W is generally between 0.001 and 5 parts by weight, usually between 0.005 and 3 parts by weight, per 100 parts by weight of the composition W.
+The additives may include at least one additive for regulating the detachment force of a silicone/adhesive interface in the composition, which is chosen from:
+(i) organic (meth)acrylate derivatives, and
+(ii) methacrylate-function(s)-comprising silicons.
+Suitable in particular as organic (meth)acrylate derivatives are epoxidized (meth)acrylate, (meth)acryloglyceropolyester, (meth)acrylourethane, (meth)acrylopolyether, (meth)acrylopolyester and (meth)acryloacrylic compounds. Particularly preferred are trimethylolpropane triacrylate, tripropylene glycol diacrylate and pentaerythrityl tetraacrylate.
+According to one preferred variant of the invention, the additive used is a (meth)acrylate-function(s)-comprising silicone. By way of representation of (meth)acrylate functions borne by the silicone and most particularly suitable for the invention, mention may more particularly be made of derivatives of acrylates, methacrylates, (meth)acrylate ethers and meth(acrylate) esters bonded to the polysiloxane chain by an Si—C bond. Such acrylate derivatives are in particular described in patents EP 281 718, FR 2 632 960 and EP 940 458.
+Other additives, such as thiols or aromatic amines, can be added in order to accelerate the crosslinking of the composition W.
+A final subject of the invention relates to a substrate comprising at least one coating which can be obtained according to the process as described above.
+The present invention is illustrated below by nonlimiting examples.
+EXAMPLES
+1-Preparation of the Compositions Comprising Organopolysiloxanes Comprising Acrylate Groups
+The following are charged, with stirring, to a 250 ml reactor equipped with magnetic-bar stirring, a reflux condenser, an air inlet and a thermometric sheath:
+130 g of a polydimethylsiloxane oil H functionalized with epoxy groups with a dynamic viscosity at 25° C. of approximately 60 mPa·s. This oil contains hydrocarbon-based groups Y comprising an epoxy group of formula (R-4) below:
+The molar content of epoxy in the oil H is 232 mmol per 100 g, which corresponds to an amount of epoxy groups per molecule of between 2 and 15;
+25 g of acrylic acid,
+0.086 g of chromium(III) acetate,
+0.039 g of methyl ether of hydroquinone (MEHQ), and
+variable amounts of solvent (see table 1).
+The stirring is adjusted to 700 rpm, then the reactor is heated at 115° C. with an aluminum hotplate while an air flow of approximately 130 ml/h is maintained. Samples are taken over time in order to measure the degree of conversion (or of transformation) of the epoxy groups by potentiometry. After 3 h 30 of reaction, the mixture is devolatilized under vacuum (gradually up to 1 mbar) while at the same time maintaining bubbling of air in order to evaporate off the acrylic acid which has not been consumed and the reaction solvents. After cooling, the composition obtained is filtered under pressure on a cellulose filter. The acrylate functions are quantitatively determined by 1H NMR.
+The acrylation yield is calculated as the ratio between the number of moles of acrylate quantitatively determined in the composition and the number of moles of epoxy initially introduced, multiplied by 100.
+The acrylation selectivity is equal to the acrylation yield over the degree of conversion of the epoxy groups. The desired objective is to obtain the highest possible selectivity.
+The results are presented in table 1 below.
+MIBK
+n-Butanol
+Degree of
+solvent
+solvent
+epoxy
+Acrylation
+(% by
+(% by
+Reaction
+conversion
+Acrylation
+selectivity
+Tests
+weight)
+weight)
+medium
+(%)
+yield (%)
+(mol %)
+Comparative
+4.6
+5.7
+Homogeneous
+98.5
+93
+94.4
+1
+& clear
+Comparative
+0
+0
+Heterogeneous
+99
+96.5
+97.5
+2
+and cloudy
+Comparative
+2
+0
+Heterogeneous
+nd
+nd
+nd
+3
+and cloudy
+Comparative
+4
+0
+Slightly
+99.1
+97.6
+98.5
+4
+heterogeneous
+and cloudy
+Invention 2
+7
+0
+Homogeneous
+98.8
+98.4
+99.6
+& clear
+Invention 3
+10
+0
+Homogeneous
+98.5
+97.2
+98.7
+& clear
+These tests shows that the process according to the invention makes it possible to obtain a good yield and a good acrylation selectivity with a homogeneous and clear reaction medium in step a) of the process. The composition obtained after devolatilization is also homogeneous and does not have any unpleasant odor.
+For comparative test 1 in the presence of two solvents (MIBK and n-butanol), the reaction medium is homogeneous and clear, but the acrylation selectivity is less than 95% and the acrylation yield is only 93%. Furthermore, the composition obtained has an unpleasant odor.
+For comparative tests 2, 3 and 4, the reaction medium is cloudy and heterogeneous, which is not desirable for an industrial implementation.
+TABLE 2
+MIBK
+n-Butanol
+solvent
+solvent
+(% by
+(% by
+Viscosity
+Mw
+Tests
+weight)
+weight)
+mPa · s−1
+g/mol
+Comparative 1
+4.6
+5.7
+570
+3790
+Comparative 2
+0
+0
+673
+4500
+Comparative 3
+2
+0
+nd
+nd
+Comparative 4
+4
+0
+675
+4500
+Invention 2
+7
+0
+656
+4350
+Invention 3
+10
+0
+648
+4170
+In order to characterize the compositions obtained during each test, weight-average molecular weight (Mw) was measured by a GPC analysis. It is noted that the compositions obtained during comparative tests 2 and 4 have the highest viscosity and average molecular weight, which may be an indicator of a greater presence of traces of coupling products resulting from the side reaction between an epoxy group and the hydroxyl function of the hydroxyacrylate.
+The tests according to the invention make it possible to obtain the desired compromise, that is to say a process in which the reaction medium is homogeneous and clear, which makes it possible to obtain very good acrylation yields and selectivities while at the same time controlling the coupling side reactions.
+2-Tests for Preparation of a Non-Stick Coating on a Flexible Support
+30 g of the compositions comprising acrylate-f unction-comprising polyorganosiloxanes obtained according to the tests above (see tables 1 and 2) and 2 g of a radical photoinitiator which is ethyl (2,4,6-trimethylbenzoyl)phenylphosphinate are added to 70 g of a polydimethylsiloxane oil with acrylate units, sold under the trade name Silcolease® UV Poly 110 (viscosity 880 mPA·s and 5.7% by weight of acrylate group).
+Each of these formulations is coated onto an LDPE GLD2 film from the company Granger, with an amount of deposit of between 0.9 and 1.1 g/m2. The samples of coated film are crosslinked with a UV lamp which has a power of 100 W/cm. The traveling speed of the coated samples under the UV lamp is 200 m/min.
+The quality of the polymerization and the attachment of the coating were evaluated by means of various trade tests.
+The “Rub-Off” measurement used to verify the adhesion to the support and the abrasion resistance of the silicone layer consists in rubbing the index finger on the siliconized support in order to apply mechanical stresses to the layer. The number of back and forward movements with the finger until the appearance of the rub-off (or scrubbing) phenomenon, corresponding to the silicone coating being torn into shreds, is scored. The score of 1 indicates poor abrasion resistance of the silicone layer and the score of 10 indicates excellent abrasion resistance of the silicone layer. This application test is scored from 1, the poorest, to 10, the best result.
+The samples according to the invention have excellent attachment performances which are much better than comparative 1.
+_____c:
+1. A process for preparing a composition X comprising at least one organopolysiloxane A comprising at least one (meth)acrylate group, said process comprising:
+a) at least one organopolysiloxane B comprising at least one epoxy group is reacted, at a temperature of between 50 and 130° C., optionally between 70 and 130° C. and optionally between 90 and 125° C., with acrylic acid or methacrylic acid or a mixture of the two, in the absence of alcohol and in the presence:
+of a catalyst C which is a complex of chromium in the oxidation state (III),
+of at least 4.5% by weight, relative to the total weight of the reaction medium of this step a), of a solvent S and
+of an inhibitor of polymerization of acrylic acid or of methacrylic acid,
+b) the reaction medium obtained at the end of step a) is devolatilized and
+c) said composition X comprising at least one organopolysiloxane A is obtained.
+2. The process as claimed in claim 1, wherein, the molar ratio between the acrylic acid and the epoxy group(s) borne by the organopolysiloxane B is greater than 1 and optionally between 1.05 and 1.50, and optionally between 1.02 and 1.20.
+3. The process as claimed in claim 1, wherein the content of solvent S used is between 4.5% and 20% by weight, optionally between 4.5% and 15% by weight and optionally between 5% and 15% by weight, relative to the total weight of the reaction medium used in a) of the process.
+4. The process as claimed in claim 1, wherein the catalyst C is a complex of chromium in the oxidation state (III), of formula (1) below
+wherein the symbols L1, which may be identical or different, represent a carboxylate anion.
+5. The process as claimed in claim 4, wherein the catalyst C is a carboxylate of chromium in the oxidation state (III), chosen from the group consisting of chromium(III) acrylate, chromium(III) methacrylate, chromium(III) acetate, chromium(III) 2-ethylhexanoate, chromium(III) neodecanoate and mixtures thereof.
+6. The process as claimed in claim 1, wherein the organopolysiloxane B comprises siloxyl units (I.1) and (I.2), of formulae below:
+wherein:
+a=1 or 2, b=0, 1 or 2 and a+b=1, 2 or 3,
+c=0, 1, 2 or 3,
+the symbols Y, which may be identical or different, represent a hydrocarbon-based group comprising an epoxy group and optionally also comprising one or more heteroatoms, such as an oxygen atom, said hydrocarbon-based group Y optionally having from 2 to 20 carbon atoms inclusive, and, optionally, Y is chosen from the group consisting of an alkyl glycidyl ether, a linear, branched or cyclic epoxyalkyl, a linear, branched or cyclic epoxyalkenyl and a carboxylic acid glycidyl ester;
+the symbols Z1 and Z2, which may be identical or different, represent a monovalent hydrocarbon-based group having from 1 to 30 carbon atoms, optionally chosen from the group consisting of alkyl groups having from 1 to 8 carbon atoms and aryl groups having from 6 to 12 carbon atoms, and optionally chosen from the group consisting of a methyl, ethyl, propyl, 3,3,3-trifluoropropyl, xylyl, tolyl and phenyl group; and
+said organopolysiloxane B comprising, per molecule, at least two silicon atoms and at least one siloxyl unit (I.1).
+7. The process as claimed in claim 6, wherein, for the siloxyl unit (I.1), the symbol Y is chosen from the group consisting of the hydrocarbon-based groups (R-1) to (R-6) of formulae below:
+8. The process as claimed in claim 1, wherein the organopolysiloxane B contains from 1% to 60% by weight of hydrocarbon-based groups Y comprising an epoxy group, optionally from 1% to 30% by weight and optionally from 1% to 15% by weight.
+9. The process as claimed in claim 1, wherein, in a), the solvent S is chosen from the group consisting of methyl isobutyl ketone, methyl ethyl ketone, toluene, xylene, chlorobenzene and mixtures thereof.
+10. The process as claimed in claim 1, wherein, in a), the solvent S is methyl isobutyl ketone.
+11. A composition X which can be obtained by means of the process described in claim 1.
+12. A process for producing a coating on a substrate, comprising the following:
+a) a composition X is prepared according to the process of claim 1,
+b) a radically crosslinkable silicone composition W is prepared, comprising:
+i. said composition X,
+ii. a photoinitiator, and
+iii. optionally at least one additive,
+c) said composition W is applied to a substrate, and
+d) said composition W is crosslinked by exposure to radiation.
+13. The process as claimed in claim 12, wherein the radiation is ultraviolet light.
+14. The process as claimed in claim 12, wherein the crosslinking d) is carried out at a temperature of between 40 and 100° C.
+15. The process as claimed in claim 12, wherein the substrate is made of textile, paper, polyvinyl chloride, polyester, polypropylene, polyamide, polyethylene, polyethylene terephthalate, polyurethane or nonwoven glass fibers.
+16. A substrate comprising at least one coating which can be obtained according to the process as described in claim 12.
+
